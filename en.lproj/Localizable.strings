@@ -5,3 +5,92 @@
   Created by Roland Moers on 07.08.13.
   Copyright (c) 2013 YasIT. All rights reserved.
 */
+
+//FBFolderViewController
+
+"Choose" = "Choose";
+"Move" = "Move";
+"Delete" = "Delete";
+
+"Error" = "Error";
+"OK" = "OK";
+"Cancel" = "Cancel";
+"Delete" = "Delete";
+
+"New Folder" = "New Folder";
+"Folders" = "Folders";
+"Files" = "Files";
+
+"Downloading file..." = "Downloading file...";
+
+"No folders. You can create one by tapping \"+\" in the toolbar below." = "No folders. You can create one by tapping \"+\" in the toolbar below.";
+"No files." = "No files.";
+
+"At least one file to move must be selected." = "At least one file to move must be selected.";
+"Do you really want to delete these files?" = "Do you really want to delete these files?";
+"At least one file to delete must be selected." = "At least one file to delete must be selected.";
+"Please type in the name." = "Please type in the name.";
+"Please choose the folder to move to." = "Please choose the folder to move to.";
+"There was an error creating the folder. Please try again." = "There was an error creating the folder. Please try again.";
+"There was an error deleting a file or folder. Please try again." = "There was an error deleting a file or folder. Please try again.";
+"There was an error moving a file or folder. Please try again." = "There was an error moving a file or folder. Please try again.";
+"There was an error downloading this file from iCloud. Maybe you are not connected to the internet?" = "There was an error downloading this file from iCloud. Maybe you are not connected to the internet?";
+"There was an error downloading this file from iCloud. Please try again." = "There was an error downloading this file from iCloud. Please try again.";
+
+//FBFileViewController
+
+"Do you really want to delete this file?" = "Do you really want to delete this file?";
+"There was an error renaming the file. Please try again." = "There was an error renaming the file. Please try again.";
+"There was an error removing the file. Please try again." = "There was an error removing the file. Please try again.";
+
+//ACDetailsViewController
+
+"Overwrite" = "Overwrite";
+"Information" = "Information";
+"Default" = "Default";
+"Unknown" = "Unknown";
+"Period" = "Period";
+"Counter" = "Counter";
+
+"iCloud" = "iCloud";
+"iTunes File Sharing" = "iTunes File Sharing";
+"Mail" = "Mail";
+
+"OTP info for account %@ of provider %@" = "OTP info for account %@ of provider %@";
+
+"Opening iCloud..." = "Opening iCloud...";
+
+"Do you really want to delete this account?" = "Do you really want to delete this account?";
+"To which destination do you want to export this account?" = "To which destination do you want to export this account?";
+"An error occured while opening your iCloud documents. Please check your iCloud settings." = "An error occured while opening your iCloud documents. Please check your iCloud settings.";
+"Enter a code to protect the file:" = "Enter a code to protect the file:";
+"A file with the name \"%@.otpauth\" already exists. What do you want to do?" = "A file with the name \"%@.otpauth\" already exists. What do you want to do?";
+"Your account could not be saved. Please try another location to save the file to." = "Your account could not be saved. Please try another location to save the file to.";
+"Confirm the code to protect the file with:" = "Confirm the code to protect the file with:";
+"Your account has been exported successfully and the upload to iCloud has been started. Please make sure you are connected to the internet. Please also note that depending on your connection the upload may take several minutes." = "Your account has been exported successfully and the upload to iCloud has been started. Please make sure you are connected to the internet. Please also note that depending on your connection the upload may take several minutes.";
+"An error occured while sending the mail. Please try again later." = "An error occured while sending the mail. Please try again later.";
+
+//ACAccountsViewController
+
+"Available settings:" = "Available settings:";
+"Edit Passcode" = "Edit Passcode";
+"Reset Passcode" = "Reset Passcode";
+"About" = "About";
+"Set Passcode" = "Set Passcode";
+
+"From where to import an account?" = "From where to import an account?";
+"Scan Barcode" = "Scan Barcode";
+"Enter Credentials" = "Enter Credentials";
+
+"Scanner" = "Scanner";
+
+"Accounts can be added by tapping \"+\" in the toolbar below. Tap an account to edit its settings." = "Accounts can be added by tapping \"+\" in the toolbar below. Tap an account to edit its settings.";
+"Enter your old passcode:" = "Enter your old passcode:";
+"Enter your new passcode:" = "Enter your new passcode:";
+"Confirm your new passcode:" = "Confirm your new passcode:";
+"Enter the code the file is protected with:" = "Enter the code the file is protected with:";
+"The scanned barcode did not include a valid OTPAuth URL." = "The scanned barcode did not include a valid OTPAuth URL.";
+
+//Scanner
+
+"Flash" = "Flash";

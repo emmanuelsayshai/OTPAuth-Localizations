@@ -1,0 +1,135 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		CAB937DD197675A50050BDB8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/FileBrowser.storyboard; sourceTree = "<group>"; };
+		CAB937DF197675A50050BDB8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		CAB937E1197675A50050BDB8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Passcode.storyboard; sourceTree = "<group>"; };
+		CAB937E2197675CC0050BDB8 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/FileBrowser.strings; sourceTree = "<group>"; };
+		CAB937E3197675D10050BDB8 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/MainStoryboard.strings; sourceTree = "<group>"; };
+		CAB937E4197675D50050BDB8 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Passcode.strings; sourceTree = "<group>"; };
+		CAB937E6197675F40050BDB8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		CAB937E8197675F40050BDB8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		CAB937E9197675F80050BDB8 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
+		CAB937EA197675FB0050BDB8 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		CAB937B71976755B0050BDB8 = {
+			isa = PBXGroup;
+			children = (
+				CAB937DC197675A50050BDB8 /* FileBrowser.storyboard */,
+				CAB937DE197675A50050BDB8 /* MainStoryboard.storyboard */,
+				CAB937E0197675A50050BDB8 /* Passcode.storyboard */,
+				CAB937E5197675F40050BDB8 /* InfoPlist.strings */,
+				CAB937E7197675F40050BDB8 /* Localizable.strings */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		CAB937B81976755B0050BDB8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+			};
+			buildConfigurationList = CAB937BB1976755B0050BDB8 /* Build configuration list for PBXProject "OTPAuth-Localizations" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				de,
+			);
+			mainGroup = CAB937B71976755B0050BDB8;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXVariantGroup section */
+		CAB937DC197675A50050BDB8 /* FileBrowser.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CAB937DD197675A50050BDB8 /* Base */,
+				CAB937E2197675CC0050BDB8 /* de */,
+			);
+			name = FileBrowser.storyboard;
+			sourceTree = "<group>";
+		};
+		CAB937DE197675A50050BDB8 /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CAB937DF197675A50050BDB8 /* Base */,
+				CAB937E3197675D10050BDB8 /* de */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+		CAB937E0197675A50050BDB8 /* Passcode.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CAB937E1197675A50050BDB8 /* Base */,
+				CAB937E4197675D50050BDB8 /* de */,
+			);
+			name = Passcode.storyboard;
+			sourceTree = "<group>";
+		};
+		CAB937E5197675F40050BDB8 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CAB937E6197675F40050BDB8 /* en */,
+				CAB937EA197675FB0050BDB8 /* de */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		CAB937E7197675F40050BDB8 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CAB937E8197675F40050BDB8 /* en */,
+				CAB937E9197675F80050BDB8 /* de */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		CAB937BC1976755B0050BDB8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		CAB937BD1976755B0050BDB8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CAB937BB1976755B0050BDB8 /* Build configuration list for PBXProject "OTPAuth-Localizations" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CAB937BC1976755B0050BDB8 /* Debug */,
+				CAB937BD1976755B0050BDB8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CAB937B81976755B0050BDB8 /* Project object */;
+}
