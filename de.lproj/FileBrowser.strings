@@ -1,0 +1,147 @@
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "1eo-8j-zUN"; */
+"1eo-8j-zUN.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "Created"; ObjectID = "2LG-te-Vb1"; */
+"2LG-te-Vb1.text" = "Erstellt";
+
+/* Class = "IBUILabel"; text = "10kb"; ObjectID = "5tR-pa-kPt"; */
+"5tR-pa-kPt.text" = "10kb";
+
+/* Class = "IBUINavigationItem"; title = "Folder"; ObjectID = "5vF-fb-M0Y"; */
+"5vF-fb-M0Y.title" = "Ordner";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "6m3-A8-MZe"; */
+"6m3-A8-MZe.text" = "Detail";
+
+/* Class = "IBUITableViewSection"; footerTitle = "The name of the file can be changed by tapping on it. To confirm the new name hit return."; ObjectID = "9pV-DX-JeZ"; */
+"9pV-DX-JeZ.footerTitle" = "Der Name der Datei kann durch Tippen auf den aktuellen Namen geändert werden. Um den neuen Namen zu bestätigen, tippen Sie auf Enter.";
+
+/* Class = "IBUITableViewSection"; headerTitle = "General"; ObjectID = "9pV-DX-JeZ"; */
+"9pV-DX-JeZ.headerTitle" = "Allgemein";
+
+/* Class = "IBUITextField"; placeholder = "Filename"; ObjectID = "BZU-6y-pgp"; */
+"BZU-6y-pgp.placeholder" = "Dateiname";
+
+/* Class = "IBUILabel"; text = "Type"; ObjectID = "CWw-ah-fbv"; */
+"CWw-ah-fbv.text" = "Typ";
+
+/* Class = "IBUILabel"; text = "Changed"; ObjectID = "FgA-bE-YPc"; */
+"FgA-bE-YPc.text" = "Geändert";
+
+/* Class = "IBUIBarButtonItem"; title = "Choose"; ObjectID = "HJx-pr-hkv"; */
+"HJx-pr-hkv.title" = "Auswählen";
+
+/* Class = "IBUIBarButtonItem"; title = "Open"; ObjectID = "HUp-98-KVB"; */
+"HUp-98-KVB.title" = "Öffnen";
+
+/* Class = "IBUINavigationItem"; title = "Details"; ObjectID = "KHg-vp-gN7"; */
+"KHg-vp-gN7.title" = "Details";
+
+/* Class = "IBUILabel"; text = "10"; ObjectID = "LAo-QH-Xhc"; */
+"LAo-QH-Xhc.text" = "10";
+
+/* Class = "IBUILabel"; text = "Type"; ObjectID = "OTw-0m-I5d"; */
+"OTw-0m-I5d.text" = "Typ";
+
+/* Class = "IBUITableViewSection"; footerTitle = "The name of the file can be changed by tapping on it. To confirm the new name hit return."; ObjectID = "Pad-kb-rdX"; */
+"Pad-kb-rdX.footerTitle" = "Der Name der Datei kann durch Tippen auf den aktuellen Namen geändert werden. Um den neuen Namen zu bestätigen, tippen Sie auf Enter.";
+
+/* Class = "IBUITableViewSection"; headerTitle = "General"; ObjectID = "Pad-kb-rdX"; */
+"Pad-kb-rdX.headerTitle" = "Allgemein";
+
+/* Class = "IBUITextField"; placeholder = "Filename"; ObjectID = "QDd-c4-Cxh"; */
+"QDd-c4-Cxh.placeholder" = "Dateiname";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "QNH-WW-cGJ"; */
+"QNH-WW-cGJ.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "RJR-KB-K3c"; */
+"RJR-KB-K3c.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "Items"; ObjectID = "TTE-gq-YKm"; */
+"TTE-gq-YKm.text" = "Unterelemente";
+
+/* Class = "IBUILabel"; text = "OTPAuth File"; ObjectID = "TZT-sb-IA2"; */
+"TZT-sb-IA2.text" = "OTPAuth Datei";
+
+/* Class = "IBUILabel"; text = "Created"; ObjectID = "VBa-3S-crb"; */
+"VBa-3S-crb.text" = "Erstellt";
+
+/* Class = "IBUILabel"; text = "Folder"; ObjectID = "b4X-ej-alv"; */
+"b4X-ej-alv.text" = "Ordner";
+
+/* Class = "IBUILabel"; text = "Type"; ObjectID = "bCS-ua-ff1"; */
+"bCS-ua-ff1.text" = "Typ";
+
+/* Class = "IBUINavigationItem"; title = "Details"; ObjectID = "bg8-Tu-vPi"; */
+"bg8-Tu-vPi.title" = "Details";
+
+/* Class = "IBUILabel"; text = "File"; ObjectID = "biN-bm-P4H"; */
+"biN-bm-P4H.text" = "Datei";
+
+/* Class = "IBUILabel"; text = "Items"; ObjectID = "g3t-3v-fa4"; */
+"g3t-3v-fa4.text" = "Unterelemente";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "geT-RY-0tT"; */
+"geT-RY-0tT.text" = "Name";
+
+/* Class = "IBUILabel"; text = "Created"; ObjectID = "hcX-h3-THe"; */
+"hcX-h3-THe.text" = "Erstellt";
+
+/* Class = "IBUILabel"; text = "Changed"; ObjectID = "j1X-Is-O0l"; */
+"j1X-Is-O0l.text" = "Geändert";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "mRf-SW-s6O"; */
+"mRf-SW-s6O.text" = "Name";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Attributes"; ObjectID = "qZW-KY-qHm"; */
+"qZW-KY-qHm.headerTitle" = "Eigenschaften";
+
+/* Class = "IBUITextField"; placeholder = "Filename"; ObjectID = "qoX-tD-ug1"; */
+"qoX-tD-ug1.placeholder" = "Dateiname";
+
+/* Class = "IBUILabel"; text = "Folder"; ObjectID = "qwL-Vf-Phf"; */
+"qwL-Vf-Phf.text" = "Order";
+
+/* Class = "IBUINavigationItem"; title = "Details"; ObjectID = "rFv-a0-p6b"; */
+"rFv-a0-p6b.title" = "Details";
+
+/* Class = "IBUITableViewSection"; footerTitle = "The name of the file can be changed by tapping on it. To confirm the new name hit return."; ObjectID = "rXP-Vv-Bma"; */
+"rXP-Vv-Bma.footerTitle" = "Der Name der Datei kann durch Tippen auf den aktuellen Namen geändert werden. Um den neuen Namen zu bestätigen, tippen Sie auf Enter.";
+
+/* Class = "IBUITableViewSection"; headerTitle = "General"; ObjectID = "rXP-Vv-Bma"; */
+"rXP-Vv-Bma.headerTitle" = "Allgemein";
+
+/* Class = "IBUILabel"; text = "10"; ObjectID = "rdr-Ys-zda"; */
+"rdr-Ys-zda.text" = "10";
+
+/* Class = "IBUILabel"; text = "Size"; ObjectID = "syc-on-AXc"; */
+"syc-on-AXc.text" = "Größe";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Attributes"; ObjectID = "v4O-p3-HqR"; */
+"v4O-p3-HqR.headerTitle" = "Eigenschaften";
+
+/* Class = "IBUILabel"; text = "Changed"; ObjectID = "wnf-6q-9Ed"; */
+"wnf-6q-9Ed.text" = "Geändert";
+
+/* Class = "IBUIButton"; normalTitle = "Details"; ObjectID = "wzR-ug-OQg"; */
+"wzR-ug-OQg.normalTitle" = "Details";
+
+/* Class = "IBUILabel"; text = "Folder"; ObjectID = "x5Y-2c-iys"; */
+"x5Y-2c-iys.text" = "Ordner";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "x9F-57-K9O"; */
+"x9F-57-K9O.text" = "Name";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Attributes"; ObjectID = "xpI-Iq-eC8"; */
+"xpI-Iq-eC8.headerTitle" = "Eigenschaften";
+
+/* Class = "IBUIButton"; normalTitle = "Details"; ObjectID = "xpb-VJ-ADi"; */
+"xpb-VJ-ADi.normalTitle" = "Details";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "yPj-2Q-KGI"; */
+"yPj-2Q-KGI.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "zKe-BS-yBb"; */
+"zKe-BS-yBb.text" = "Detail";
