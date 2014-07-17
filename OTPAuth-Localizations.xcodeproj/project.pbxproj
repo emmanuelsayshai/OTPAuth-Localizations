@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		B8740CBD19785B1B00B98B8D /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/FileBrowser.strings; sourceTree = "<group>"; };
+		B8740CBE19785B1B00B98B8D /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/MainStoryboard.strings; sourceTree = "<group>"; };
+		B8740CBF19785B1C00B98B8D /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Passcode.strings; sourceTree = "<group>"; };
+		B8740CC019785B1C00B98B8D /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		B8740CC119785B1C00B98B8D /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
 		CAB937DD197675A50050BDB8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/FileBrowser.storyboard; sourceTree = "<group>"; };
 		CAB937DF197675A50050BDB8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		CAB937E1197675A50050BDB8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Passcode.storyboard; sourceTree = "<group>"; };
@@ -47,6 +52,7 @@
 				en,
 				Base,
 				de,
+				ru,
 			);
 			mainGroup = CAB937B71976755B0050BDB8;
 			projectDirPath = "";
@@ -62,6 +68,7 @@
 			children = (
 				CAB937DD197675A50050BDB8 /* Base */,
 				CAB937E2197675CC0050BDB8 /* de */,
+				B8740CBD19785B1B00B98B8D /* ru */,
 			);
 			name = FileBrowser.storyboard;
 			sourceTree = "<group>";
@@ -71,6 +78,7 @@
 			children = (
 				CAB937DF197675A50050BDB8 /* Base */,
 				CAB937E3197675D10050BDB8 /* de */,
+				B8740CBE19785B1B00B98B8D /* ru */,
 			);
 			name = MainStoryboard.storyboard;
 			sourceTree = "<group>";
@@ -80,6 +88,7 @@
 			children = (
 				CAB937E1197675A50050BDB8 /* Base */,
 				CAB937E4197675D50050BDB8 /* de */,
+				B8740CBF19785B1C00B98B8D /* ru */,
 			);
 			name = Passcode.storyboard;
 			sourceTree = "<group>";
@@ -89,6 +98,7 @@
 			children = (
 				CAB937E6197675F40050BDB8 /* en */,
 				CAB937EA197675FB0050BDB8 /* de */,
+				B8740CC019785B1C00B98B8D /* ru */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -98,6 +108,7 @@
 			children = (
 				CAB937E8197675F40050BDB8 /* en */,
 				CAB937E9197675F80050BDB8 /* de */,
+				B8740CC119785B1C00B98B8D /* ru */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
