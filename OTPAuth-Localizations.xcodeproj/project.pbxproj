@@ -42,7 +42,7 @@
 		CAB937B81976755B0050BDB8 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0510;
+				LastUpgradeCheck = 0600;
 			};
 			buildConfigurationList = CAB937BB1976755B0050BDB8 /* Build configuration list for PBXProject "OTPAuth-Localizations" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -119,6 +119,7 @@
 		CAB937BC1976755B0050BDB8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ONLY_ACTIVE_ARCH = YES;
 			};
 			name = Debug;
 		};
