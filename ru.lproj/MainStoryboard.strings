@@ -101,8 +101,8 @@
 /* Class = "IBUINavigationItem"; title = "Algorithm"; ObjectID = "V6e-PG-2JK"; */
 "V6e-PG-2JK.title" = "Algorithm";
 
-/* Class = "IBUILabel"; text = "SHA1 / SHA256 / ..."; ObjectID = "WvJ-ag-0qA"; */
-"WvJ-ag-0qA.text" = "SHA1 / SHA256 / ...";
+/* Class = "IBUILabel"; text = "SHA1 / SHA256 / …"; ObjectID = "WvJ-ag-0qA"; */
+"WvJ-ag-0qA.text" = "SHA1 / SHA256 / …";
 
 /* Class = "IBUITextField"; placeholder = "Google Mail"; ObjectID = "ZhS-dV-inH"; */
 "ZhS-dV-inH.placeholder" = "Google Mail";
