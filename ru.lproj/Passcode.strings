@@ -1,6 +1,6 @@
 
 /* Class = "IBUINavigationItem"; title = "Passcode"; ObjectID = "13A-82-dCS"; */
-"13A-82-dCS.title" = "Passcode";
+"13A-82-dCS.title" = "Пароль";
 
 /* Class = "IBUILabel"; text = "Enter your passcode:"; ObjectID = "Jj4-JK-j9s"; */
-"Jj4-JK-j9s.text" = "Enter your passcode:";
+"Jj4-JK-j9s.text" = "Введите ваш пароль:";
