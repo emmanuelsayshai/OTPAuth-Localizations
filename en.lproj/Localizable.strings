@@ -21,7 +21,7 @@
 "Folders" = "Folders";
 "Files" = "Files";
 
-"Downloading file..." = "Downloading file...";
+"Downloading file…" = "Downloading file…";
 
 "No folders. You can create one by tapping \"+\" in the toolbar below." = "No folders. You can create one by tapping \"+\" in the toolbar below.";
 "No files." = "No files.";
@@ -58,7 +58,7 @@
 
 "OTP info for account %@ of provider %@" = "OTP info for account %@ of provider %@";
 
-"Opening iCloud..." = "Opening iCloud...";
+"Opening iCloud…" = "Opening iCloud…";
 
 "Do you really want to delete this account?" = "Do you really want to delete this account?";
 "To which destination do you want to export this account?" = "To which destination do you want to export this account?";

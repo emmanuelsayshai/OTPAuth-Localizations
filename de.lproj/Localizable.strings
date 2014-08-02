@@ -21,7 +21,7 @@
 "Folders" = "Ordner";
 "Files" = "Dateien";
 
-"Downloading file..." = "Datei herunterladen...";
+"Downloading file…" = "Datei herunterladen…";
 
 "No folders. You can create one by tapping \"+\" in the toolbar below." = "Keine Ordner vorhanden. Ein Ordner kann mit dem \"+\"-Button unten hinzugefügt werden.";
 "No files." = "Keine Dateien vorhanden.";
@@ -58,7 +58,7 @@
 
 "OTP info for account %@ of provider %@" = "OTP Infos für Account %@ des Anbieters %@";
 
-"Opening iCloud..." = "iCloud öffnen...";
+"Opening iCloud…" = "iCloud öffnen…";
 
 "Do you really want to delete this account?" = "Möchten Sie diesen Account wirklich löschen?";
 "To which destination do you want to export this account?" = "Wohin soll der Account exportiert werden?";

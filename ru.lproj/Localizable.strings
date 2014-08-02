@@ -1,0 +1,96 @@
+/* 
+  Localizable.strings
+  Authenticator
+
+  Created by Roland Moers on 07.08.13.
+  Copyright (c) 2013 YasIT. All rights reserved.
+*/
+
+//FBFolderViewController
+
+"Choose" = "Выбрать";
+"Move" = "Переместить";
+"Delete" = "Удалить";
+
+"Error" = "Ошибка";
+"OK" = "ОК";
+"Cancel" = "Отмена";
+"Delete" = "Удалить";
+
+"New Folder" = "Новая папка";
+"Folders" = "Папки";
+"Files" = "Файлы";
+
+"Downloading file…" = "Загрузка файла…";
+
+"No folders. You can create one by tapping \"+\" in the toolbar below." = "Нет папок. Вы можете создать папку, нажав \"+\" в панели ниже.";
+"No files." = "Нет файлов.";
+
+"At least one file to move must be selected." = "Для перемещения должен быть выбран по крайней мере один файл.";
+"Do you really want to delete these files?" = "Вы действительно хотите удалить эти файлы?";
+"At least one file to delete must be selected." = "Для удаления должен быть выбран по крайней мере один файл.";
+"Please type in the name." = "Пожалуйста, введите имя.";
+"Please choose the folder to move to." = "Пожалуйста, выберите папку, в которую требуется переместить.";
+"There was an error creating the folder. Please try again." = "Произошла ошибка создания папки. Пожалуйста, попробуйте снова.";
+"There was an error deleting a file or folder. Please try again." = "Произошла ошибка удаления файла или папки. Пожалуйста, попробуйте снова.";
+"There was an error moving a file or folder. Please try again." = "Произошла ошибка перемещения файла или папки. Пожалуйста, попробуйте снова.";
+"There was an error downloading this file from iCloud. Maybe you are not connected to the internet?" = "Произошла ошибка загрузки этого файла из iCloud. Возможно, вы не подключены к Интернету?";
+"There was an error downloading this file from iCloud. Please try again." = "Произошла ошибка загрузки этого файла из iCloud. Пожалуйста, попробуйте снова.";
+
+//FBFileViewController
+
+"Do you really want to delete this file?" = "Вы действительно хотите удалить этот файл?";
+"There was an error renaming the file. Please try again." = "Произошла ошибка переименования файла. Пожалуйста, попробуйте снова.";
+"There was an error removing the file. Please try again." = "Произошла ошибка удаления файла. Пожалуйста, попробуйте снова.";
+
+//ACDetailsViewController
+
+"Overwrite" = "Перезаписать";
+"Information" = "Информация";
+"Default" = "По умолчанию";
+"Unknown" = "Неизвестно";
+"Period" = "Период";
+"Counter" = "Счётчик";
+
+"iCloud" = "iCloud";
+"iTunes File Sharing" = "Обмен файлами iTunes";
+"Mail" = "Эл. почта (Mail)";
+
+"OTP info for account %@ of provider %@" = "Информация OTP для учётной записи %@ провайдера %@";
+
+"Opening iCloud…" = "Открытие iCloud…";
+
+"Do you really want to delete this account?" = "Вы действительно хотите удалить эту учётную запись?";
+"To which destination do you want to export this account?" = "Куда вы хотите экспортировать эту учётную запись?";
+"An error occured while opening your iCloud documents. Please check your iCloud settings." = "Произошла ошибка при открытии ваших документов iCloud. Пожалуйста, проверьте настройки iCloud.";
+"Enter a code to protect the file:" = "Введите код для защиты данного файла:";
+"A file with the name \"%@.otpauth\" already exists. What do you want to do?" = "Файл с именем \"%@.otpauth\" уже существует. Что вы хотите предпринять?";
+"Your account could not be saved. Please try another location to save the file to." = "Ваша учётная запись не может быть сохранена. Пожалуйста, попробуйте другое расположение для сохранения.";
+"Confirm the code to protect the file with:" = "Подтвердите код для защиты файла:";
+"Your account has been exported successfully and the upload to iCloud has been started. Please make sure you are connected to the internet. Please also note that depending on your connection the upload may take several minutes." = "Ваша учётная запись была успешно экспортирована и была начата загрузка в iCloud. Пожалуйста, убедитесь, что устройство подключено к Интернету. Обратите внимание, что загрузка может занять до нескольких минут в зависимости от вашего подключения.";
+"An error occured while sending the mail. Please try again later." = "Произошла ошибка при отправке сообщения. Пожалуйта, попробуйте снова позже.";
+
+//ACAccountsViewController
+
+"Available settings:" = "Доступные настройки:";
+"Edit Passcode" = "Изменить пароль";
+"Reset Passcode" = "Сбросить пароль";
+"About" = "О приложении";
+"Set Passcode" = "Установить пароль";
+
+"From where to import an account?" = "Откуда импортировать учётную запись?";
+"Scan Barcode" = "Отсканировать штрихкод";
+"Enter Credentials" = "Ввести данные вручную";
+
+"Scanner" = "Сканер";
+
+"Accounts can be added by tapping \"+\" in the toolbar below. Tap an account to edit its settings." = "Учётные записи могут быть добавлены нажатием \"+\" в панели ниже. Нажмите на учётную запись для изменения её настроек.";
+"Enter your old passcode:" = "Введите ваш старый пароль:";
+"Enter your new passcode:" = "Введите ваш новый пароль:";
+"Confirm your new passcode:" = "Подтвердите ваш новый пароль:";
+"Enter the code the file is protected with:" = "Введите код, которым был защищён данный файл:";
+"The scanned barcode did not include a valid OTPAuth URL." = "Отсканированный штрихкод не содержит действительный URL OTPAuth.";
+
+//Scanner
+
+"Flash" = "Вспышка";
