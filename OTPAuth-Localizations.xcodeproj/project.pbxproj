@@ -9,15 +9,15 @@
 /* Begin PBXFileReference section */
 		B8740CBD19785B1B00B98B8D /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/FileBrowser.strings; sourceTree = "<group>"; };
 		B8740CBE19785B1B00B98B8D /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; lineEnding = 0; name = ru; path = ru.lproj/MainStoryboard.strings; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.simpleColoring; };
-		B8740CBF19785B1C00B98B8D /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Passcode.strings; sourceTree = "<group>"; };
 		B8740CC019785B1C00B98B8D /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		B8740CC119785B1C00B98B8D /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; lineEnding = 0; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.simpleColoring; };
+		CA546DCB19BA491D005DAC10 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Password.storyboard; sourceTree = "<group>"; };
+		CA546DCC19BA492C005DAC10 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Password.strings; sourceTree = "<group>"; };
+		CA546DCD19BA492F005DAC10 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Password.strings; sourceTree = "<group>"; };
 		CAB937DD197675A50050BDB8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/FileBrowser.storyboard; sourceTree = "<group>"; };
 		CAB937DF197675A50050BDB8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		CAB937E1197675A50050BDB8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Passcode.storyboard; sourceTree = "<group>"; };
 		CAB937E2197675CC0050BDB8 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/FileBrowser.strings; sourceTree = "<group>"; };
 		CAB937E3197675D10050BDB8 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/MainStoryboard.strings; sourceTree = "<group>"; };
-		CAB937E4197675D50050BDB8 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Passcode.strings; sourceTree = "<group>"; };
 		CAB937E6197675F40050BDB8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		CAB937E8197675F40050BDB8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; lineEnding = 0; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.simpleColoring; };
 		CAB937E9197675F80050BDB8 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; lineEnding = 0; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.simpleColoring; };
@@ -30,7 +30,7 @@
 			children = (
 				CAB937DC197675A50050BDB8 /* FileBrowser.storyboard */,
 				CAB937DE197675A50050BDB8 /* MainStoryboard.storyboard */,
-				CAB937E0197675A50050BDB8 /* Passcode.storyboard */,
+				CA546DCA19BA491D005DAC10 /* Password.storyboard */,
 				CAB937E5197675F40050BDB8 /* InfoPlist.strings */,
 				CAB937E7197675F40050BDB8 /* Localizable.strings */,
 			);
@@ -63,6 +63,16 @@
 /* End PBXProject section */
 
 /* Begin PBXVariantGroup section */
+		CA546DCA19BA491D005DAC10 /* Password.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CA546DCB19BA491D005DAC10 /* Base */,
+				CA546DCC19BA492C005DAC10 /* de */,
+				CA546DCD19BA492F005DAC10 /* ru */,
+			);
+			name = Password.storyboard;
+			sourceTree = "<group>";
+		};
 		CAB937DC197675A50050BDB8 /* FileBrowser.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -81,16 +91,6 @@
 				B8740CBE19785B1B00B98B8D /* ru */,
 			);
 			name = MainStoryboard.storyboard;
-			sourceTree = "<group>";
-		};
-		CAB937E0197675A50050BDB8 /* Passcode.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				CAB937E1197675A50050BDB8 /* Base */,
-				CAB937E4197675D50050BDB8 /* de */,
-				B8740CBF19785B1C00B98B8D /* ru */,
-			);
-			name = Passcode.storyboard;
 			sourceTree = "<group>";
 		};
 		CAB937E5197675F40050BDB8 /* InfoPlist.strings */ = {
