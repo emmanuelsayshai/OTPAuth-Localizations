@@ -8,8 +8,8 @@
 
 //General
 
-"Done" = "Done"; //TODO: Localize me!
-"Next" = "Next"; //TODO: Localize me!
+"Done" = "Готово";
+"Next" = "Далее";
 
 //FBFolderViewController
 
@@ -56,28 +56,28 @@
 "iTunes File Sharing" = "Обмен файлами iTunes";
 "Mail" = "Эл. почта (Mail)";
 
-"Time-based OTP" = "Time-based OTP"; //TODO: Localize me!
-"Counter-based OTP" = "Counter-based OTP"; //TODO: Localize me!
+"Time-based OTP" = "По времени";
+"Counter-based OTP" = "По счётчику";
 
 "OTP info for account %@ of provider %@" = "Информация OTP для учётной записи %@ провайдера %@";
 
-"Delete account" = "Delete account"; //TODO: Localize me!
+"Delete account" = "Удалить учётную запись";
 "Do you really want to delete this account?" = "Вы действительно хотите удалить эту учётную запись?";
 
 "Enter a code to protect the file:" = "Введите код для защиты данного файла:";
 "Your account could not be saved. Please try another location to save the file to." = "Ваша учётная запись не может быть сохранена. Пожалуйста, попробуйте другое расположение для сохранения.";
-"Confirm the password:" = "Confirm the password:"; //TODO: Localize me!
+"Confirm the password:" = "Подтвердите пароль:";
 "An error occured while sending the mail. Please try again later." = "Произошла ошибка при отправке сообщения. Пожалуйта, попробуйте снова позже.";
 
 //ACAccountsViewController
 
-"Settings" = "Settings"; //TODO: Localize me!
-"Currently the following settings are available:" = "Currently the following settings are available:"; //TODO: Localize me!
+"Settings" = "Настройки";
+"Currently the following settings are available:" = "В данный момент доступны следующие настройки:";
 
-"Edit password" = "Edit password"; //TODO: Localize me!
-"Reset password" = "Reset password"; //TODO: Localize me!
+"Edit password" = "Изменить пароль";
+"Reset password" = "Сбросить пароль";
 "About" = "О приложении";
-"Set password" = "Set password"; //TODO: Localize me!
+"Set password" = "Установить пароль";
 
 "Scan Barcode" = "Отсканировать штрихкод";
 "Enter Credentials" = "Ввести данные вручную";
@@ -85,22 +85,22 @@
 "Scanner" = "Сканер";
 
 "Accounts can be added by tapping \"+\" in the toolbar below. Tap an account to edit its settings." = "Учётные записи могут быть добавлены нажатием \"+\" в панели ниже. Нажмите на учётную запись для изменения её настроек.";
-"Enter your old password:" = "Enter your old password:"; //TODO: Localize me!
-"Enter your new password:" = "Enter your new password:"; //TODO: Localize me!
-"Confirm your new password:" = "Confirm your new password:"; //TODO: Localize me!
-"Enter the password the file is protected with:" = "Enter the password the file is protected with:"; //TODO: Localize me!
-"The scanned barcode did not include a valid account." = "The scanned barcode did not include a valid account."; //TODO: Localize me!
+"Enter your old password:" = "Введите ваш старый пароль:";
+"Enter your new password:" = "Введите ваш новый пароль:";
+"Confirm your new password:" = "Подтвердите ваш новый пароль:";
+"Enter the password the file is protected with:" = "Введите пароль, которым защищён файл:";
+"The scanned barcode did not include a valid account." = "Отсканированный штрихкод не содержит действительную учётную запись.";
 
 //Scanner
 
-"There was an error opening the\ncamera :'(" = "There was an error opening the\ncamera :'("; //TODO: Localize me!
+"There was an error opening the\ncamera :'(" = "Произошла ошибка\nоткрытия камеры :'(";
 "Flash" = "Вспышка";
 
 //App Delegate
 
-"App is locked. Please enter your password:" = "App is locked. Please enter your password:"; //TODO: Localize me!
+"App is locked. Please enter your password:" = "Приложение заблокировано. Пожалуйста, введите пароль:";
 
 //Password View
 
-"The password you entered is wrong. Please try again." = "The password you entered is wrong. Please try again."; //TODO: Localize me!
-"The confirmation password did not match the original password. Please try again." = "The confirmation password did not match the original password. Please try again."; //TODO: Localize me!
+"The password you entered is wrong. Please try again." = "Введённый пароль неверен. Пожалуйста, попробуйте снова.";
+"The confirmation password did not match the original password. Please try again." = "Подтверждающий пароль не совпадает с исходным. Пожалуйста, попробуйте снова.";
