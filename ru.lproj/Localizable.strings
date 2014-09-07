@@ -40,6 +40,8 @@
 
 //FBFileViewController
 
+"Details" = "Подробности";
+
 "Do you really want to delete this file?" = "Вы действительно хотите удалить этот файл?";
 "There was an error renaming the file. Please try again." = "Произошла ошибка переименования файла. Пожалуйста, попробуйте снова.";
 "There was an error removing the file. Please try again." = "Произошла ошибка удаления файла. Пожалуйста, попробуйте снова.";
@@ -55,6 +57,7 @@
 
 "iTunes File Sharing" = "Обмен файлами iTunes";
 "Mail" = "Эл. почта (Mail)";
+"AirDrop" = "AirDrop"; //TODO: Localize me!
 
 "Time-based OTP" = "По времени";
 "Counter-based OTP" = "По счётчику";
@@ -65,8 +68,12 @@
 "Do you really want to delete this account?" = "Вы действительно хотите удалить эту учётную запись?";
 
 "Enter a code to protect the file:" = "Введите код для защиты данного файла:";
-"Your account could not be saved. Please try another location to save the file to." = "Ваша учётная запись не может быть сохранена. Пожалуйста, попробуйте другое расположение для сохранения.";
 "Confirm the password:" = "Подтвердите пароль:";
+"An error occured while encrypting the account. Please try again." = "An error occured while encrypting the account. Please try again."; //TODO: Localize me!
+"Your account could not be saved. Please try another location to save the file to." = "Ваша учётная запись не может быть сохранена. Пожалуйста, попробуйте другое расположение для сохранения.";
+"A file named \"%@\" already exists. Do you want to overwrite it?" = "A file named \"%@\" already exists. Do you want to overwrite it?"; //TODO: Localize me!
+"Account exported" = "File exported"; //TODO: Localize me!
+"Your account has been exported successfully. The name of the file is \"%@\"" = "Your account has been exported successfully. The name of the file is \"%@\""; //TODO: Localize me!
 "An error occured while sending the mail. Please try again later." = "Произошла ошибка при отправке сообщения. Пожалуйта, попробуйте снова позже.";
 
 //ACAccountsViewController
@@ -94,7 +101,9 @@
 //Scanner
 
 "There was an error opening the\ncamera :'(" = "Произошла ошибка\nоткрытия камеры :'(";
-"Flash" = "Вспышка";
+
+"Flash on" = "Blitz an"; //TODO: Localize me!
+"Flash off" = "Blitz aus"; //TODO: Localize me!
 
 //App Delegate
 
@@ -104,3 +113,8 @@
 
 "The password you entered is wrong. Please try again." = "Введённый пароль неверен. Пожалуйста, попробуйте снова.";
 "The confirmation password did not match the original password. Please try again." = "Подтверждающий пароль не совпадает с исходным. Пожалуйста, попробуйте снова.";
+
+//Keyboard and Widget
+
+"The app is secured with a password. Using this keyboard is not\nsupported." = "The app is secured with a password. Using this keyboard is not\nsupported."; //TODO: Localize me!
+"No accounts available." = "No accounts available."; //TODO: Localize me!
