@@ -97,6 +97,7 @@
 "Confirm your new password:" = "Подтвердите ваш новый пароль:";
 "Enter the password the file is protected with:" = "Введите пароль, которым защищён файл:";
 "The scanned barcode did not include a valid account." = "Отсканированный штрихкод не содержит действительную учётную запись.";
+"There was an error opening the file. Please try again." = "There was an error opening the file. Please try again."; //TODO: Localize me!
 
 //Scanner
 
