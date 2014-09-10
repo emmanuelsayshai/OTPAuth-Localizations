@@ -57,7 +57,7 @@
 
 "iTunes File Sharing" = "Обмен файлами iTunes";
 "Mail" = "Эл. почта (Mail)";
-"AirDrop" = "AirDrop"; //TODO: Localize me!
+"AirDrop" = "AirDrop";
 
 "Time-based OTP" = "По времени";
 "Counter-based OTP" = "По счётчику";
@@ -69,11 +69,11 @@
 
 "Enter a code to protect the file:" = "Введите код для защиты данного файла:";
 "Confirm the password:" = "Подтвердите пароль:";
-"An error occured while encrypting the account. Please try again." = "An error occured while encrypting the account. Please try again."; //TODO: Localize me!
+"An error occured while encrypting the account. Please try again." = "Произошла ошибка шифрования учётной записи. Пожалуйста, попробуйте снова.";
 "Your account could not be saved. Please try another location to save the file to." = "Ваша учётная запись не может быть сохранена. Пожалуйста, попробуйте другое расположение для сохранения.";
-"A file named \"%@\" already exists. Do you want to overwrite it?" = "A file named \"%@\" already exists. Do you want to overwrite it?"; //TODO: Localize me!
-"Account exported" = "File exported"; //TODO: Localize me!
-"Your account has been exported successfully. The name of the file is \"%@\"" = "Your account has been exported successfully. The name of the file is \"%@\""; //TODO: Localize me!
+"A file named \"%@\" already exists. Do you want to overwrite it?" = "Файл с именем \"%@\" уже существует. Вы хотите перезаписать его?";
+"Account exported" = "Файл экспортирован";
+"Your account has been exported successfully. The name of the file is \"%@\"" = "Ваша учётная запись была успешно экспортирована. Имя файла: \"%@\"";
 "An error occured while sending the mail. Please try again later." = "Произошла ошибка при отправке сообщения. Пожалуйта, попробуйте снова позже.";
 
 //ACAccountsViewController
@@ -102,8 +102,8 @@
 
 "There was an error opening the\ncamera :'(" = "Произошла ошибка\nоткрытия камеры :'(";
 
-"Flash on" = "Blitz an"; //TODO: Localize me!
-"Flash off" = "Blitz aus"; //TODO: Localize me!
+"Flash on" = "Вспышка вкл.";
+"Flash off" = "Вспышка выкл.";
 
 //App Delegate
 
@@ -116,5 +116,5 @@
 
 //Keyboard and Widget
 
-"The app is secured with a password. Using this keyboard is not\nsupported." = "The app is secured with a password. Using this keyboard is not\nsupported."; //TODO: Localize me!
-"No accounts available." = "No accounts available."; //TODO: Localize me!
+"The app is secured with a password. Using this keyboard is not\nsupported." = "Приложение защищено паролем. Использование этой клавиатуры\nне поддерживается.";
+"No accounts available." = "Нет доступных учётных записей.";
