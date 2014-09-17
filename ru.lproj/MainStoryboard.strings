@@ -42,13 +42,13 @@
 "9Hj-bJ-HRy.text" = "52345678";
 
 /* Class = "IBUILabel"; text = "Counter-based OTP"; ObjectID = "Bn0-MO-g6W"; */
-"Bn0-MO-g6W.text" = "OTP по таймеру";
+"Bn0-MO-g6W.text" = "OTP по счётчику";
 
 /* Class = "IBUILabel"; text = "OTP Auth"; ObjectID = "D7O-cV-R3H"; */
 "D7O-cV-R3H.text" = "OTP Auth";
 
 /* Class = "IBUILabel"; text = "Time-based OTP"; ObjectID = "DN6-Ih-KjG"; */
-"DN6-Ih-KjG.text" = "OTP по счётчику";
+"DN6-Ih-KjG.text" = "OTP по таймеру";
 
 /* Class = "IBUITableViewSection"; footerTitle = "Name and issuer will not be used for generating codes and can be changed."; ObjectID = "Egl-6H-uCu"; */
 "Egl-6H-uCu.footerTitle" = "Имя и провайдер не будут использоваться для генерации кодов и могут быть изменены.";
