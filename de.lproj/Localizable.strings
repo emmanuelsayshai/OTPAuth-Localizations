@@ -1,10 +1,15 @@
-/* 
-  Localizable.strings
-  Authenticator
+/*
+ Localizable.strings
+ Authenticator
+ 
+ Created by Roland Moers on 07.08.13.
+ Copyright (c) 2013 CooperRS.de. All rights reserved.
+ */
 
-  Created by Roland Moers on 07.08.13.
-  Copyright (c) 2013 CooperRS.de. All rights reserved.
-*/
+//General
+
+"Done" = "Fertig";
+"Next" = "Weiter";
 
 //FBFolderViewController
 
@@ -21,8 +26,6 @@
 "Folders" = "Ordner";
 "Files" = "Dateien";
 
-"Downloading file…" = "Datei herunterladen…";
-
 "No folders. You can create one by tapping \"+\" in the toolbar below." = "Keine Ordner vorhanden. Ein Ordner kann mit dem \"+\"-Button unten hinzugefügt werden.";
 "No files." = "Keine Dateien vorhanden.";
 
@@ -34,10 +37,12 @@
 "There was an error creating the folder. Please try again." = "Der Ordner konnte nicht erstellt werden. Bitte versuchen Sie es erneut.";
 "There was an error deleting a file or folder. Please try again." = "Ein Order oder eine Datei konnte nicht gelöscht werden. Bitte versuchen Sie es erneut.";
 "There was an error moving a file or folder. Please try again." = "Ein Order oder eine Datei konnte nicht verschoben werden. Bitte versuchen Sie es erneut.";
-"There was an error downloading this file from iCloud. Maybe you are not connected to the internet?" = "Die Datei konnte nicht heruntergeladen werden. Sind Sie mit dem Internet verbunden?";
-"There was an error downloading this file from iCloud. Please try again." = "Die Datei konnte nicht heruntergeladen werden. Bitte versuchen Sie es erneut.";
 
 //FBFileViewController
+
+"Details" = "Details";
+
+"%qi Byte" = "%qi Byte";
 
 "Do you really want to delete this file?" = "Möchten Sie diese Datei wirklich löschen?";
 "There was an error renaming the file. Please try again." = "Die Datei konnte nicht umbenannt werden. Bitte versuchen Sie es erneut.";
@@ -52,45 +57,62 @@
 "Period" = "Gültigkeit";
 "Counter" = "Zähler";
 
-"iCloud" = "iCloud";
 "iTunes File Sharing" = "iTunes Dateifreigabe";
 "Mail" = "Mail";
+"AirDrop" = "AirDrop";
+
+"Time-based OTP" = "Zeit-basiertes OTP";
+"Counter-based OTP" = "Zähler-basiertes OTP";
 
 "OTP info for account %@ of provider %@" = "OTP Infos für Account %@ des Anbieters %@";
 
-"Opening iCloud…" = "iCloud öffnen…";
-
+"Delete account" = "Account löschen";
 "Do you really want to delete this account?" = "Möchten Sie diesen Account wirklich löschen?";
-"To which destination do you want to export this account?" = "Wohin soll der Account exportiert werden?";
-"An error occured while opening your iCloud documents. Please check your iCloud settings." = "Ihre iCloud konnte nicht geöffnet werden. Bitte überprüfen Sie ihre iCloud Einstellungen.";
-"Enter a code to protect the file:" = "PIN zum Schützen der Datei:";
-"A file with the name \"%@.otpauth\" already exists. What do you want to do?" = "Eine Datei mit dem Namen \"%@.otpauth\" existiert bereits. Wie möchten Sie fortfahren?";
+
+"Enter a password to protect the file:" = "Passwort zum Schützen der Datei:";
+"Confirm the password:" = "Passwort wiederholen:";
+"An error occured while encrypting the account. Please try again." = "Beim Verschlüsseln des Accounts ist ein Fehler passiert. Bitte versuchen Sie es ernaut.";
 "Your account could not be saved. Please try another location to save the file to." = "Der Account konnte nicht gespeichert werden. Bitte versuchen Sie einen anderen Speicherort.";
-"Confirm the code to protect the file with:" = "PIN wiederholen:";
-"Your account has been exported successfully and the upload to iCloud has been started. Please make sure you are connected to the internet. Please also note that depending on your connection the upload may take several minutes." = "Ihr Account wurde erfolgreich exportiert und der Upload in die iCloud wurde initiiert. Bitte stellen Sie sicher, dass Sie mit dem Internet verbunden sind. Abhängig von ihrere Internetgeschwindigkeit kann der Upload einige Minuten dauern.";
+"A file named \"%@\" already exists. Do you want to overwrite it?" = "Eine Datei namens \"%@\" existiert bereits. Möchten Sie die Datei überschreiben?";
+"Account exported" = "Account exportiert";
+"Your account has been exported successfully. The name of the file is \"%@\"" = "Der Account wurde erfolgreich exportiert. Der Name der Datei ist \"%@\"";
 "An error occured while sending the mail. Please try again later." = "Beim Versenden der Mail ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut.";
 
 //ACAccountsViewController
 
-"Available settings:" = "Verfügbare Einstellungen:";
-"Edit Passcode" = "PIN ändern";
-"Reset Passcode" = "PIN löschen";
-"About" = "Über";
-"Set Passcode" = "PIN setzen";
+"Settings" = "Einstellungen";
+"Currently the following settings are available:" = "Momentan sind die folgenden Einstellungen verfügbar:";
 
-"From where to import an account?" = "Von wo soll ein Account importiert werden?";
+"Edit password" = "Passwort ändern";
+"Reset password" = "Passwort löschen";
+"About" = "Über";
+"Set password" = "Passwort setzen";
+
 "Scan Barcode" = "Barcode lesen";
 "Enter Credentials" = "Manuell eingeben";
 
 "Scanner" = "Scanner";
 
 "Accounts can be added by tapping \"+\" in the toolbar below. Tap an account to edit its settings." = "Accounts können über den \"+\"-Button unten hinzugefügt werden. Wählen Sie einen Account aus, um seine Einstellungen zu ändern.";
-"Enter your old passcode:" = "Ihr alter PIN:";
-"Enter your new passcode:" = "Ihr neuer PIN:";
-"Confirm your new passcode:" = "PIN wiederholen:";
-"Enter the code the file is protected with:" = "PIN für die Datei:";
-"The scanned barcode did not include a valid OTPAuth URL." = "Der gelesene Barcode enthält keine gültige OTPAuth URL.";
+"Enter your old password:" = "Ihr altes Passwort:";
+"Enter your new password:" = "Ihr neues Passwort:";
+"Confirm your new password:" = "Passwort wiederholen:";
+"Enter the password the file is protected with:" = "Passwort für die Datei:";
+"The scanned barcode did not include a valid account." = "Der gelesene Barcode enthält keinen gültige Account.";
+"There was an error opening the file. Please try again." = "Die Datei konnte nicht geöffnet werden. Bitte versuchen Sie es erneut.";
 
 //Scanner
 
-"Flash" = "Blitz";
+"There was an error opening the\ncamera :'(" = "Beim Öffnen der Kamera ist ein\nFehler aufgetreten :'(";
+
+"Flash on" = "Blitz an";
+"Flash off" = "Blitz aus";
+
+//App Delegate
+
+"App is locked. Please enter your password:" = "App geschützt. Bitte Passwort eingeben:";
+
+//Password View
+
+"The password you entered is wrong. Please try again." = "Das eingegebene Passwort is falsch. Bitte versuchen Sie es erneut.";
+"The confirmation password did not match the original password. Please try again." = "Die Passwort-Wiederholung stimmte nicht mit dem ersten Passwort überein. Bitte versuchen Sie es erneut.";
