@@ -42,7 +42,7 @@
 
 "Details" = "Подробности";
 
-"%qi Byte" = "%qi Byte"; //TODO: Localize me!
+"%qi Byte" = "%qi байт";
 
 "Do you really want to delete this file?" = "Вы действительно хотите удалить этот файл?";
 "There was an error renaming the file. Please try again." = "Произошла ошибка переименования файла. Пожалуйста, попробуйте снова.";
