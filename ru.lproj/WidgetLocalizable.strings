@@ -1,0 +1,15 @@
+/*
+  Localizable.strings
+  Authenticator
+ 
+  Created by Roland Moers on 07.09.14.
+  Copyright (c) 2014 CooperRS.de. All rights reserved.
+*/
+
+"The app is secured with a password. Using this widget is not supported." = "Приложение защищено паролем. Использование этой клавиатуры не поддерживается.";
+"No accounts available." = "Нет доступных учётных записей.";
+
+"Error" = "Ошибка";
+"Unknown" = "Неизвестно";
+
+"Next" = "Далее";

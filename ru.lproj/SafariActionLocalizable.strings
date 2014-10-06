@@ -1,0 +1,33 @@
+/*
+ Localizable.strings
+ Authenticator
+ 
+ Created by Roland Moers on 22.09.14.
+ Copyright (c) 2014 CooperRS.de. All rights reserved.
+ */
+
+//Main
+
+"Done" = "Готово";
+"Next" = "Далее";
+
+"Unknown" = "Неизвестно";
+"Error" = "Ошибка";
+"Cancel" = "Отмена";
+"E-Mail" = "E-Mail"; //TODO: Localize me!
+"OK" = "ОК";
+
+"The website does not contain any suitable text fields for entering a password.\n\nIf you think this is an error, write me a messsage by tapping the e-mail button." = "The website does not contain any suitable text fields for entering a password.\n\nIf you think this is an error, write me a messsage by tapping the e-mail button."; //TODO: Localize me!
+"An error occured while executing neccessary scripts. Please try again." = "An error occured while executing neccessary scripts. Please try again."; //TODO: Localize me!
+"An error occured while sending the mail. Please try again later." = "Произошла ошибка при отправке сообщения. Пожалуйта, попробуйте снова позже.";
+
+"Tap the account for which you need a code." = "Tap the account for which you need a code."; //TODO: Localize me!
+
+//Password View
+
+"Please enter your password:" = "Пожалуйста, введите пароль:";
+"The password you entered is wrong. Please try again." = "Введённый пароль неверен. Пожалуйста, попробуйте снова.";
+
+"There was an error reading the password using 1Password. Please try again." = "There was an error reading the password using 1Password. Please try again."; //TODO: Localize me!
+"There was an error saving the password using 1Password. Please try again." = "There was an error saving the password using 1Password. Please try again."; //TODO: Localize me!
+"There was an error changing the password using 1Password. Please try again." = "There was an error changing the password using 1Password. Please try again."; //TODO: Localize me!

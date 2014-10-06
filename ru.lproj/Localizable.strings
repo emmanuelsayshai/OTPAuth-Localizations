@@ -117,7 +117,6 @@
 "The password you entered is wrong. Please try again." = "Введённый пароль неверен. Пожалуйста, попробуйте снова.";
 "The confirmation password did not match the original password. Please try again." = "Подтверждающий пароль не совпадает с исходным. Пожалуйста, попробуйте снова.";
 
-//Keyboard and Widget
-
-"The app is secured with a password. Using this keyboard is not\nsupported." = "Приложение защищено паролем. Использование этой клавиатуры\nне поддерживается.";
-"No accounts available." = "Нет доступных учётных записей.";
+"There was an error reading the password using 1Password. Please try again." = "There was an error reading the password using 1Password. Please try again."; //TODO: Localize me!
+"There was an error saving the password using 1Password. Please try again." = "There was an error saving the password using 1Password. Please try again."; //TODO: Localize me!
+"There was an error changing the password using 1Password. Please try again." = "There was an error changing the password using 1Password. Please try again."; //TODO: Localize me!

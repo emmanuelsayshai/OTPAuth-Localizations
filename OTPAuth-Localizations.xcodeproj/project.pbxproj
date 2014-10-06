@@ -9,8 +9,17 @@
 /* Begin PBXFileReference section */
 		B8740CBD19785B1B00B98B8D /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/FileBrowser.strings; sourceTree = "<group>"; };
 		B8740CBE19785B1B00B98B8D /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; lineEnding = 0; name = ru; path = ru.lproj/MainStoryboard.strings; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.simpleColoring; };
-		B8740CC019785B1C00B98B8D /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		B8740CC119785B1C00B98B8D /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; lineEnding = 0; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.simpleColoring; };
+		CA39199D19E3333300603596 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/SafariAction.storyboard; sourceTree = "<group>"; };
+		CA39199F19E3333300603596 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Widget.storyboard; sourceTree = "<group>"; };
+		CA3919A119E3333800603596 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/SafariAction.strings; sourceTree = "<group>"; };
+		CA3919A319E3333A00603596 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/SafariAction.strings; sourceTree = "<group>"; };
+		CA3919A519E3333E00603596 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Widget.strings; sourceTree = "<group>"; };
+		CA3919A719E3333F00603596 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Widget.strings; sourceTree = "<group>"; };
+		CA3919A919E3341B00603596 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/SafariActionLocalizable.strings; sourceTree = "<group>"; };
+		CA3919AB19E3341B00603596 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/WidgetLocalizable.strings; sourceTree = "<group>"; };
+		CA3919AC19E3342400603596 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/WidgetLocalizable.strings; sourceTree = "<group>"; };
+		CA3919AD19E3342700603596 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/SafariActionLocalizable.strings; sourceTree = "<group>"; };
 		CA546DCB19BA491D005DAC10 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Password.storyboard; sourceTree = "<group>"; };
 		CA546DCC19BA492C005DAC10 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Password.strings; sourceTree = "<group>"; };
 		CA546DCD19BA492F005DAC10 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Password.strings; sourceTree = "<group>"; };
@@ -19,18 +28,44 @@
 		CAB937E2197675CC0050BDB8 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/FileBrowser.strings; sourceTree = "<group>"; };
 		CAB937E3197675D10050BDB8 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/MainStoryboard.strings; sourceTree = "<group>"; };
 		CAB937E9197675F80050BDB8 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; lineEnding = 0; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.simpleColoring; };
-		CAB937EA197675FB0050BDB8 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
+		CA3919AE19E3343A00603596 /* Main Application */ = {
+			isa = PBXGroup;
+			children = (
+				CAB937DE197675A50050BDB8 /* MainStoryboard.storyboard */,
+				CAB937DC197675A50050BDB8 /* FileBrowser.storyboard */,
+				CA546DCA19BA491D005DAC10 /* Password.storyboard */,
+				CAB937E7197675F40050BDB8 /* Localizable.strings */,
+			);
+			name = "Main Application";
+			sourceTree = "<group>";
+		};
+		CA3919AF19E3344700603596 /* Widget */ = {
+			isa = PBXGroup;
+			children = (
+				CA39199E19E3333300603596 /* Widget.storyboard */,
+				CA3919AA19E3341B00603596 /* WidgetLocalizable.strings */,
+			);
+			name = Widget;
+			sourceTree = "<group>";
+		};
+		CA3919B019E3344C00603596 /* Safari Action */ = {
+			isa = PBXGroup;
+			children = (
+				CA39199C19E3333300603596 /* SafariAction.storyboard */,
+				CA3919A819E3341B00603596 /* SafariActionLocalizable.strings */,
+			);
+			name = "Safari Action";
+			sourceTree = "<group>";
+		};
 		CAB937B71976755B0050BDB8 = {
 			isa = PBXGroup;
 			children = (
-				CAB937DC197675A50050BDB8 /* FileBrowser.storyboard */,
-				CAB937DE197675A50050BDB8 /* MainStoryboard.storyboard */,
-				CA546DCA19BA491D005DAC10 /* Password.storyboard */,
-				CAB937E5197675F40050BDB8 /* InfoPlist.strings */,
-				CAB937E7197675F40050BDB8 /* Localizable.strings */,
+				CA3919AE19E3343A00603596 /* Main Application */,
+				CA3919AF19E3344700603596 /* Widget */,
+				CA3919B019E3344C00603596 /* Safari Action */,
 			);
 			sourceTree = "<group>";
 		};
@@ -61,6 +96,44 @@
 /* End PBXProject section */
 
 /* Begin PBXVariantGroup section */
+		CA39199C19E3333300603596 /* SafariAction.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CA39199D19E3333300603596 /* Base */,
+				CA3919A119E3333800603596 /* de */,
+				CA3919A319E3333A00603596 /* ru */,
+			);
+			name = SafariAction.storyboard;
+			sourceTree = "<group>";
+		};
+		CA39199E19E3333300603596 /* Widget.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CA39199F19E3333300603596 /* Base */,
+				CA3919A519E3333E00603596 /* de */,
+				CA3919A719E3333F00603596 /* ru */,
+			);
+			name = Widget.storyboard;
+			sourceTree = "<group>";
+		};
+		CA3919A819E3341B00603596 /* SafariActionLocalizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CA3919A919E3341B00603596 /* de */,
+				CA3919AD19E3342700603596 /* ru */,
+			);
+			name = SafariActionLocalizable.strings;
+			sourceTree = "<group>";
+		};
+		CA3919AA19E3341B00603596 /* WidgetLocalizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CA3919AB19E3341B00603596 /* de */,
+				CA3919AC19E3342400603596 /* ru */,
+			);
+			name = WidgetLocalizable.strings;
+			sourceTree = "<group>";
+		};
 		CA546DCA19BA491D005DAC10 /* Password.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -89,15 +162,6 @@
 				B8740CBE19785B1B00B98B8D /* ru */,
 			);
 			name = MainStoryboard.storyboard;
-			sourceTree = "<group>";
-		};
-		CAB937E5197675F40050BDB8 /* InfoPlist.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				CAB937EA197675FB0050BDB8 /* de */,
-				B8740CC019785B1C00B98B8D /* ru */,
-			);
-			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
 		CAB937E7197675F40050BDB8 /* Localizable.strings */ = {

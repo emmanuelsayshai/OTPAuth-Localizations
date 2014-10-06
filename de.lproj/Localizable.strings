@@ -116,3 +116,7 @@
 
 "The password you entered is wrong. Please try again." = "Das eingegebene Passwort is falsch. Bitte versuchen Sie es erneut.";
 "The confirmation password did not match the original password. Please try again." = "Die Passwort-Wiederholung stimmte nicht mit dem ersten Passwort überein. Bitte versuchen Sie es erneut.";
+
+"There was an error reading the password using 1Password. Please try again." = "Beim Lesen des Passworts mit 1Password ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.";
+"There was an error saving the password using 1Password. Please try again." = "Beim Speichern des Passworts mit 1Password ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.";
+"There was an error changing the password using 1Password. Please try again." = "Beim Ändern des Passworts mit 1Password ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.";
