@@ -6,7 +6,7 @@
   Copyright (c) 2014 CooperRS.de. All rights reserved.
 */
 
-"The app is secured with a password. Using this widget is not supported." = "Приложение защищено паролем. Использование этой клавиатуры не поддерживается.";
+"The app is secured with a password. Using this widget is not supported." = "Приложение защищено паролем. Использование этой клавиатуры не поддерживается."; //TODO: Please check for correctness
 "No accounts available." = "Нет доступных учётных записей.";
 
 "Error" = "Ошибка";
