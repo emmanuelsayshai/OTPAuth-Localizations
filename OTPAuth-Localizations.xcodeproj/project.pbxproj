@@ -23,6 +23,8 @@
 		CA546DCB19BA491D005DAC10 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Password.storyboard; sourceTree = "<group>"; };
 		CA546DCC19BA492C005DAC10 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Password.strings; sourceTree = "<group>"; };
 		CA546DCD19BA492F005DAC10 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Password.strings; sourceTree = "<group>"; };
+		CAA308B719E3D929000263CE /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Keyboard.strings; sourceTree = "<group>"; };
+		CAA308B819E3D92C000263CE /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Keyboard.strings; sourceTree = "<group>"; };
 		CAB937DD197675A50050BDB8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/FileBrowser.storyboard; sourceTree = "<group>"; };
 		CAB937DF197675A50050BDB8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		CAB937E2197675CC0050BDB8 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/FileBrowser.strings; sourceTree = "<group>"; };
@@ -60,12 +62,21 @@
 			name = "Safari Action";
 			sourceTree = "<group>";
 		};
+		CAA308B519E3D905000263CE /* Keyboard */ = {
+			isa = PBXGroup;
+			children = (
+				CAA308B619E3D929000263CE /* Keyboard.strings */,
+			);
+			name = Keyboard;
+			sourceTree = "<group>";
+		};
 		CAB937B71976755B0050BDB8 = {
 			isa = PBXGroup;
 			children = (
 				CA3919AE19E3343A00603596 /* Main Application */,
 				CA3919AF19E3344700603596 /* Widget */,
 				CA3919B019E3344C00603596 /* Safari Action */,
+				CAA308B519E3D905000263CE /* Keyboard */,
 			);
 			sourceTree = "<group>";
 		};
@@ -142,6 +153,15 @@
 				CA546DCD19BA492F005DAC10 /* ru */,
 			);
 			name = Password.storyboard;
+			sourceTree = "<group>";
+		};
+		CAA308B619E3D929000263CE /* Keyboard.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CAA308B719E3D929000263CE /* de */,
+				CAA308B819E3D92C000263CE /* ru */,
+			);
+			name = Keyboard.strings;
 			sourceTree = "<group>";
 		};
 		CAB937DC197675A50050BDB8 /* FileBrowser.storyboard */ = {
