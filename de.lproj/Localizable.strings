@@ -83,10 +83,11 @@
 "Settings" = "Einstellungen";
 "Currently the following settings are available:" = "Momentan sind die folgenden Einstellungen verfügbar:";
 
+"Set password" = "Passwort setzen";
 "Edit password" = "Passwort ändern";
 "Reset password" = "Passwort löschen";
+"Notification Center" = "Mitteilungszentrale";
 "About" = "Über";
-"Set password" = "Passwort setzen";
 
 "Scan Barcode" = "Barcode lesen";
 "Enter Credentials" = "Manuell eingeben";
@@ -120,3 +121,7 @@
 "There was an error reading the password using 1Password. Please try again." = "Beim Lesen des Passworts mit 1Password ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.";
 "There was an error saving the password using 1Password. Please try again." = "Beim Speichern des Passworts mit 1Password ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.";
 "There was an error changing the password using 1Password. Please try again." = "Beim Ändern des Passworts mit 1Password ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.";
+
+//ACWidgetSettingsViewController
+
+"Select which accounts should be visible in the Notification Center.\n\nThe height of a widget in the Notification Center is limited to a certain height. This limit depends on the device you are using. On your current device you can display up to %i accounts while in portrait mode. In landscape mode you can only display up to %i accounts (landscape mode is not available on all devices).\n\nIf you select more accounts than the widget can display, the widget will show as many accounts as possible." = "Wählen Sie die Accounts aus, die in der Mitteilungszentrale angezeigt werden sollen.\n\nDie Höhe eines Widgets in der Mitteilungszentrale is durch eine maximale Höhe begrenzt. Wie hoch ein Widget maximal sein kann, hängt vom Gerät ab. Auf ihrem aktuellen Gerät können Sie maximal %i Accounts im Hochformat anzeigen. Im Querformat können Sie nur %i Accounts anzeigen (nicht alle Geräte unterstützen das Querformat in der Mitteilungszentrale).\n\nWenn Sie mehr Accounts auswählen, als angezeigt werden können, werden nur die ersten Accounts angezeigt.";

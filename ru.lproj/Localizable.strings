@@ -83,10 +83,11 @@
 "Settings" = "Настройки";
 "Currently the following settings are available:" = "В данный момент доступны следующие настройки:";
 
+"Set password" = "Установить пароль";
 "Edit password" = "Изменить пароль";
 "Reset password" = "Сбросить пароль";
+"Notification Center" = "Notification Center"; //TODO: Localize me!
 "About" = "О приложении";
-"Set password" = "Установить пароль";
 
 "Scan Barcode" = "Отсканировать штрихкод";
 "Enter Credentials" = "Ввести данные вручную";
@@ -120,3 +121,7 @@
 "There was an error reading the password using 1Password. Please try again." = "There was an error reading the password using 1Password. Please try again."; //TODO: Localize me!
 "There was an error saving the password using 1Password. Please try again." = "There was an error saving the password using 1Password. Please try again."; //TODO: Localize me!
 "There was an error changing the password using 1Password. Please try again." = "There was an error changing the password using 1Password. Please try again."; //TODO: Localize me!
+
+//ACWidgetSettingsViewController
+
+"Select which accounts should be visible in the Notification Center.\n\nThe height of a widget in the Notification Center is limited to a certain height. This limit depends on the device you are using. On your current device you can display up to %i accounts while in portrait mode. In landscape mode you can only display up to %i accounts (landscape mode is not available on all devices).\n\nIf you select more accounts than the widget can display, the widget will show as many accounts as possible." = "Select which accounts should be visible in the Notification Center.\n\nThe height of a widget in the Notification Center is limited to a certain height. This limit depends on the device you are using. On your current device you can display up to %i accounts while in portrait mode. In landscape mode you can only display up to %i accounts (landscape mode is not available on all devices).\n\nIf you select more accounts than the widget can display, the widget will show as many accounts as possible."; //TODO: Localize me!
