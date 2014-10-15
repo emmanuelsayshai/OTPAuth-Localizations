@@ -12,4 +12,4 @@
 "Unknown" = "Неизвестно";
 
 "The app is secured with a password. Using this keyboard is not\nsupported." = "Приложение защищено паролем. Использование этой клавиатуры\nне поддерживается.";
-"No accounts available.\nMaybe you did not enable full access?" = "Нет доступных учётных записей.\nMaybe you did not enable full access?"; //TODO: Localize Me!
+"No accounts available.\nMaybe you did not enable full access?" = "Нет доступных учётных записей.\nМожет быть вы не разрешили полный доступ?";
