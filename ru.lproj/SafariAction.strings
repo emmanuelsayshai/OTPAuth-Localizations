@@ -1,12 +1,12 @@
 
 /* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "CbX-jm-xog"; */
-"CbX-jm-xog.text" = "Subtitle";
+"CbX-jm-xog.text" = "Подзаголовок";
 
 /* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "G1V-rH-7VA"; */
-"G1V-rH-7VA.text" = "Subtitle";
+"G1V-rH-7VA.text" = "Подзаголовок";
 
 /* Class = "IBUILabel"; text = "Label"; ObjectID = "MrM-Kq-f0P"; */
-"MrM-Kq-f0P.text" = "Label";
+"MrM-Kq-f0P.text" = "Подпись";
 
 /* Class = "IBUINavigationItem"; title = "Accounts"; ObjectID = "THA-RQ-3C8"; */
 "THA-RQ-3C8.title" = "Учётные записи";
@@ -18,4 +18,4 @@
 "uQT-fc-oMk.text" = "52345678";
 
 /* Class = "IBUILabel"; text = "Label"; ObjectID = "wgQ-Ba-90U"; */
-"wgQ-Ba-90U.text" = "Label";
+"wgQ-Ba-90U.text" = "Подпись";
