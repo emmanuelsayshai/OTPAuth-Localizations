@@ -1,10 +1,10 @@
-/* 
-  Localizable.strings
-  Authenticator
-
-  Created by Roland Moers on 22.09.14.
-  Copyright (c) 2014 CooperRS.de. All rights reserved.
-*/
+/*
+ Localizable.strings
+ Authenticator
+ 
+ Created by Roland Moers on 22.09.14.
+ Copyright (c) 2014 CooperRS.de. All rights reserved.
+ */
 
 //Main
 
@@ -16,6 +16,10 @@
 "Cancel" = "Abbrechen";
 "E-Mail" = "E-Mail";
 "OK" = "OK";
+
+"Accounts" = "Accounts";
+
+"You need to login to proceed." = "Sie müssen sich einloggen um fortzufahren.";
 
 "The website does not contain any suitable text fields for entering a password.\n\nIf you think this is an error, write me a messsage by tapping the e-mail button." = "Die Website enthält kein Textfeld, in das das Passwort eingetragen werden kann.\n\nWenn Sie diese Meldung für einen Fehler halten, schreiben Sie eine Nachricht, indem Sie auf E-Mail drücken.";
 "An error occured while executing neccessary scripts. Please try again." = "Beim Ausführen notwendiger Skripte ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.";
@@ -31,3 +35,6 @@
 "There was an error reading the password using 1Password. Please try again." = "Beim Lesen des Passworts mit 1Password ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.";
 "There was an error saving the password using 1Password. Please try again." = "Beim Speichern des Passworts mit 1Password ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.";
 "There was an error changing the password using 1Password. Please try again." = "Beim Ändern des Passworts mit 1Password ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.";
+
+"You need to authenticate for this action." = "Sie müssen sich einloggen um fortzufahren.";
+"An error occured while logging in using Touch ID. Please continue by entering your password." = "Beim Einloggen mittels Touch ID ist ein Fehler aufgetreten. Bitte geben Sie ihr Passwort ein.";

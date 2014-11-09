@@ -86,6 +86,7 @@
 "Set password" = "Установить пароль";
 "Edit password" = "Изменить пароль";
 "Reset password" = "Сбросить пароль";
+"Reset password" = "Сбросить пароль";
 "Notification Center" = "Центр уведомлений";
 "About" = "О приложении";
 
@@ -112,6 +113,7 @@
 //App Delegate
 
 "App is locked. Please enter your password:" = "Приложение заблокировано. Пожалуйста, введите пароль:";
+"App is locked. You need to login to proceed." = "App is locked. You need to login to proceed."; //TODO: Localize me!
 
 //Password View
 
@@ -122,6 +124,15 @@
 "There was an error saving the password using 1Password. Please try again." = "Произошла ошибка сохранения пароля с использованием 1Password. Пожалуйста, попробуйте снова.";
 "There was an error changing the password using 1Password. Please try again." = "Произошла ошибка изменения пароля с использованием 1Password. Пожалуйста, попробуйте снова.";
 
+"You need to authenticate for this action." = "You need to authenticate for this action."; //TODO: Localize me!
+"An error occured while logging in using Touch ID. Please continue by entering your password." = "An error occured while logging in using Touch ID. Please continue by entering your password."; //TODO: Localize me!
+
 //ACWidgetSettingsViewController
 
 "Select which accounts should be visible in the Notification Center.\n\nThe height of a widget in the Notification Center is limited to a certain height. This limit depends on the device you are using. On your current device you can display up to %i accounts while in portrait mode. In landscape mode you can only display up to %i accounts (landscape mode is not available on all devices).\n\nIf you select more accounts than the widget can display, the widget will show as many accounts as possible." = "Выберите, какие учётные записи должны быть видимыми в Центре уведомлений.\n\nВысота виджета в Центре уведомлений ограничена. Это ограничение зависит от используемого устройства. На вашем текущем устройства, вы можете отобразить до %i учётных записей в портретном (вертикальном) режиме. В альбомном (горизонтальном) режиме вы можете отобраить до %i учётных записей (альбомный режим доступен не на всех устройствах).\n\nЕсли вы выберете больше учётных записей, чем виджет может отобразить, виджет отобразит максимально возможное их количество.";
+
+"Show all accounts button" = "Show all accounts button"; //TODO: Localize me!
+"If this option is turned, the widget will show an additional button called \"Show all accounts\". Pressing this button will open OTP Auth." = "If this option is turned, the widget will show an additional button called \"Show all accounts\". Pressing this button will open OTP Auth."; //TODO: Localize me!
+
+"Always show accounts" = "Always show accounts"; //TODO: Localize me!
+"If this option is turned on, the widget shows the accounts even when a password for securing the app is configured." = "If this option is turned on, the widget shows the accounts even when a password for securing the app is configured."; //TODO: Localize me!

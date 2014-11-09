@@ -112,6 +112,7 @@
 //App Delegate
 
 "App is locked. Please enter your password:" = "App geschützt. Bitte Passwort eingeben:";
+"App is locked. You need to login to proceed." = "App geschützt. Sie müssen sich einloggen um fortzufahren.";
 
 //Password View
 
@@ -122,6 +123,15 @@
 "There was an error saving the password using 1Password. Please try again." = "Beim Speichern des Passworts mit 1Password ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.";
 "There was an error changing the password using 1Password. Please try again." = "Beim Ändern des Passworts mit 1Password ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.";
 
+"You need to authenticate for this action." = "Sie müssen sich einloggen um fortzufahren.";
+"An error occured while logging in using Touch ID. Please continue by entering your password." = "Beim Einloggen mittels Touch ID ist ein Fehler aufgetreten. Bitte geben Sie ihr Passwort ein.";
+
 //ACWidgetSettingsViewController
 
 "Select which accounts should be visible in the Notification Center.\n\nThe height of a widget in the Notification Center is limited to a certain height. This limit depends on the device you are using. On your current device you can display up to %i accounts while in portrait mode. In landscape mode you can only display up to %i accounts (landscape mode is not available on all devices).\n\nIf you select more accounts than the widget can display, the widget will show as many accounts as possible." = "Wählen Sie die Accounts aus, die in der Mitteilungszentrale angezeigt werden sollen.\n\nDie Höhe eines Widgets in der Mitteilungszentrale is durch eine maximale Höhe begrenzt. Wie hoch ein Widget maximal sein kann, hängt vom Gerät ab. Auf ihrem aktuellen Gerät können Sie maximal %i Accounts im Hochformat anzeigen. Im Querformat können Sie nur %i Accounts anzeigen (nicht alle Geräte unterstützen das Querformat in der Mitteilungszentrale).\n\nWenn Sie mehr Accounts auswählen, als angezeigt werden können, werden nur die ersten Accounts angezeigt.";
+
+"Show all accounts button" = "\"Alle Accounts anzeigen\"-Button";
+"If this option is turned, the widget will show an additional button called \"Show all accounts\". Pressing this button will open OTP Auth." = "Wenn diese Option aktiviert wird, zeigt das Widget in der Mitteilungszentrale einen zusätzlichen Button, über den die App geöffnet werden kann.";
+
+"Always show accounts" = "Immer Accounts anzeigen";
+"If this option is turned on, the widget shows the accounts even when a password for securing the app is configured." = "Wenn diese Option aktiviert wird, werden in der Mitteilungszentrale immer Ihre Accounts angezeigt. Sogar dann, wenn für die App ein Passwort vergeben ist.";

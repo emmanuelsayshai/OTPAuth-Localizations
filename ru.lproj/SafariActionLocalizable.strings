@@ -17,6 +17,10 @@
 "E-Mail" = "Эл. почта";
 "OK" = "ОК";
 
+"Accounts" = "Учётные записи";
+
+"You need to login to proceed." = "You need to login to proceed."; //TODO: Localize me!
+
 "The website does not contain any suitable text fields for entering a password.\n\nIf you think this is an error, write me a messsage by tapping the e-mail button." = "Веб-сайт не содержит подходящих для ввода пароля текстовых полей.\n\nЕсли вы считаете, что это ошибка, напишите мне сообщение, нажав на кнопку Эл. почта.";
 "An error occured while executing neccessary scripts. Please try again." = "Произошла ошибка при выполнении необходимых скриптов. Пожалуйста, попробуйте снова.";
 "An error occured while sending the mail. Please try again later." = "Произошла ошибка при отправке сообщения. Пожалуйта, попробуйте снова позже.";
@@ -31,3 +35,6 @@
 "There was an error reading the password using 1Password. Please try again." = "Произошла ошибка чтения пароля с использованием 1Password. Пожалуйста, попробуйте снова.";
 "There was an error saving the password using 1Password. Please try again." = "Произошла ошибка сохранения пароля с использованием 1Password. Пожалуйста, попробуйте снова.";
 "There was an error changing the password using 1Password. Please try again." = "Произошла ошибка изменения пароля с использованием 1Password. Пожалуйста, попробуйте снова.";
+
+"You need to authenticate for this action." = "You need to authenticate for this action."; //TODO: Localize me!
+"An error occured while logging in using Touch ID. Please continue by entering your password." = "An error occured while logging in using Touch ID. Please continue by entering your password."; //TODO: Localize me!
