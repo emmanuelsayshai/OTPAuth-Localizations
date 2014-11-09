@@ -131,7 +131,7 @@
 
 "Select which accounts should be visible in the Notification Center.\n\nThe height of a widget in the Notification Center is limited to a certain height. This limit depends on the device you are using. On your current device you can display up to %i accounts while in portrait mode. In landscape mode you can only display up to %i accounts (landscape mode is not available on all devices).\n\nIf you select more accounts than the widget can display, the widget will show as many accounts as possible." = "Выберите, какие учётные записи должны быть видимыми в Центре уведомлений.\n\nВысота виджета в Центре уведомлений ограничена. Это ограничение зависит от используемого устройства. На вашем текущем устройства, вы можете отобразить до %i учётных записей в портретном (вертикальном) режиме. В альбомном (горизонтальном) режиме вы можете отобраить до %i учётных записей (альбомный режим доступен не на всех устройствах).\n\nЕсли вы выберете больше учётных записей, чем виджет может отобразить, виджет отобразит максимально возможное их количество.";
 
-"Show all accounts button" = "Кнопка Показывать все учётные записи";
+"Show all accounts button" = "Кнопка «Показывать все уч. записи»";
 "If this option is turned, the widget will show an additional button called \"Show all accounts\". Pressing this button will open OTP Auth." = "Если данная настройка включена, виджет будет отображать дополнительную кнопку \"Показывать все учётные записи\". Нажатие на эту кнопку откроет OTP Auth.";
 
 "Always show accounts" = "Всегда показывать учётные записи";
