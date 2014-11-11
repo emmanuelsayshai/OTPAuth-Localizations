@@ -1,12 +1,14 @@
 /*
- Localizable.strings
- Authenticator
- 
- Created by Roland Moers on 07.08.13.
- Copyright (c) 2013 CooperRS.de. All rights reserved.
- */
+Localizable.strings
+Authenticator
+
+Created by Roland Moers on 07.08.13.
+Copyright (c) 2013 CooperRS.de. All rights reserved.
+*/
 
 //General
+
+"General" = "General"; //TODO: Localize me!
 
 "Done" = "Готово";
 "Next" = "Далее";
@@ -83,10 +85,6 @@
 "Settings" = "Настройки";
 "Currently the following settings are available:" = "В данный момент доступны следующие настройки:";
 
-"Set password" = "Установить пароль";
-"Edit password" = "Изменить пароль";
-"Reset password" = "Сбросить пароль";
-"Reset password" = "Сбросить пароль";
 "Notification Center" = "Центр уведомлений";
 "About" = "О приложении";
 
@@ -126,6 +124,18 @@
 
 "You need to authenticate for this action." = "Вам необходимо аутентифицироваться для выполнения этого действия.";
 "An error occured while logging in using Touch ID. Please continue by entering your password." = "Произошла ошибка при входе с использованием Touch ID. Пожалуйста введите пароль, чтобы продолжить.";
+
+//ACGeneralSettingsViewController
+
+"Password" = "Password"; //TODO: Localize me!
+"Edit password" = "Изменить пароль";
+"Touch ID" = "Touch ID"; //TODO: Localize me!
+
+"If you set a password, you need to enter this password everytime you start OTP Auth. Tap \"Edit password\", if you want to change the current password.\n\nWarning: If you forget this password, you need to reset OTP Auth using the settings available in the system settings app. After resetting OTP Auth all your data is lost!" = "If you set a password, you need to enter this password everytime you start the app. Tap \"Edit password\", if you want to change the current password.\n\nWarning: If you forget this password, you need to reset OTP Auth using the settings available in the system settings app. After resetting OTP Auth all your data is lost!"; //TODO: Localize me!
+"Enable this setting if you want to unlock OTP Auth by using Touch ID." = "Enable this setting if you want to unlock OTP Auth by using Touch ID."; //TODO: Localize me!
+"Enable this setting if you want to unlock OTP Auth by using Touch ID.\n\nTouch ID support can only be enabled, if it is fully configured in the system settings app." = "Enable this setting if you want to unlock OTP Auth by using Touch ID.\n\nTouch ID support can only be enabled, if it is fully configured in the system settings app."; //TODO: Localize me!
+"If you set a password, you need to enter this password everytime you start the app.\n\nWarning: If you forget this password, you need to reset OTP Auth using the settings available in the system settings app. After resetting OTP Auth all your data is lost!" = "If you set a password, you need to enter this password everytime you start the app.\n\nWarning: If you forget this password, you need to reset OTP Auth using the settings available in the system settings app. After resetting OTP Auth all your data is lost!"; //TODO: Localize me!
+"Enable this setting if you want to unlock OTP Auth by using Touch ID.\n\nTouch ID support can only be enabled, if you have set a password." = "Enable this setting if you want to unlock OTP Auth by using Touch ID.\n\nTouch ID support can only be enabled, if you have set a password."; //TODO: Localize me!
 
 //ACWidgetSettingsViewController
 

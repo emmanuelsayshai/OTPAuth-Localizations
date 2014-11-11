@@ -1,12 +1,14 @@
 /*
- Localizable.strings
- Authenticator
- 
- Created by Roland Moers on 07.08.13.
- Copyright (c) 2013 CooperRS.de. All rights reserved.
- */
+Localizable.strings
+Authenticator
+
+Created by Roland Moers on 07.08.13.
+Copyright (c) 2013 CooperRS.de. All rights reserved.
+*/
 
 //General
+
+"General" = "Allgemein";
 
 "Done" = "Fertig";
 "Next" = "Weiter";
@@ -83,9 +85,6 @@
 "Settings" = "Einstellungen";
 "Currently the following settings are available:" = "Momentan sind die folgenden Einstellungen verfügbar:";
 
-"Set password" = "Passwort setzen";
-"Edit password" = "Passwort ändern";
-"Reset password" = "Passwort löschen";
 "Notification Center" = "Mitteilungszentrale";
 "About" = "Über";
 
@@ -125,6 +124,18 @@
 
 "You need to authenticate for this action." = "Sie müssen sich einloggen um fortzufahren.";
 "An error occured while logging in using Touch ID. Please continue by entering your password." = "Beim Einloggen mittels Touch ID ist ein Fehler aufgetreten. Bitte geben Sie ihr Passwort ein.";
+
+//ACGeneralSettingsViewController
+
+"Password" = "Passwort";
+"Edit password" = "Passwort ändern";
+"Touch ID" = "Touch ID";
+
+"If you set a password, you need to enter this password everytime you start OTP Auth. Tap \"Edit password\", if you want to change the current password.\n\nWarning: If you forget this password, you need to reset OTP Auth using the settings available in the system settings app. After resetting OTP Auth all your data is lost!" = "Wenn Sie ein Passwort angeben, müssen Sie das Passwort jedes Mal eingeben, wenn Sie OTP Auth starten. Tippen Sie auf \"Passwort ändern\", wenn Sie das aktuelle Passwort ändern möchten.\n\nAchtung: Wenn Sie ihr Passwort vergessen, müssen sie OTP Auth über die allgemeinen Einstellungen zurücksetzen. Dabei gehen alle Daten in OTP Auth verloren!";
+"Enable this setting if you want to unlock OTP Auth by using Touch ID." = "Aktivieren Sie diese Einstellung, wenn Sie OTP Auth mittels Touch ID entsperren möchten.";
+"Enable this setting if you want to unlock OTP Auth by using Touch ID.\n\nTouch ID support can only be enabled, if it is fully configured in the system settings app." = "Aktivieren Sie diese Einstellung, wenn Sie OTP Auth mittels Touch ID entsperren möchten.\n\nDiese Einstellung kann erst aktiviert werden, wenn Touch ID in den Systemeinstellungen vollständig eingerichtet ist.";
+"If you set a password, you need to enter this password everytime you start the app.\n\nWarning: If you forget this password, you need to reset OTP Auth using the settings available in the system settings app. After resetting OTP Auth all your data is lost!" = "Wenn Sie ein Passwort angeben, müssen Sie das Passwort jedes Mal eingeben, wenn Sie OTP Auth starten.\n\nAchtung: Wenn Sie ihr Passwort vergessen, müssen sie OTP Auth über die allgemeinen Einstellungen zurücksetzen. Dabei gehen alle Daten in OTP Auth verloren!";
+"Enable this setting if you want to unlock OTP Auth by using Touch ID.\n\nTouch ID support can only be enabled, if you have set a password." = "Aktivieren Sie diese Einstellung, wenn Sie OTP Auth mittels Touch ID entsperren möchten.\n\nDiese Einstellung kann erst aktiviert werden, wenn Sie ein Passwort angegeben haben.";
 
 //ACWidgetSettingsViewController
 
