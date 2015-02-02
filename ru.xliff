@@ -1,0 +1,1548 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Authenticator Action/Base.lproj/MainInterface.storyboard" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1.1" build-num="6A2008a"/>
+    </header>
+    <body>
+      <trans-unit id="6ke-Oo-hF8.prompt">
+        <source>Please choose an account.</source>
+        <target>Please choose an account.</target>
+        <note>Class = "IBUINavigationItem"; prompt = "Please choose an account."; ObjectID = "6ke-Oo-hF8";</note>
+      </trans-unit>
+      <trans-unit id="6ke-Oo-hF8.title">
+        <source>aFolder</source>
+        <target>aFolder</target>
+        <note>Class = "IBUINavigationItem"; title = "aFolder"; ObjectID = "6ke-Oo-hF8";</note>
+      </trans-unit>
+      <trans-unit id="Hx2-tm-mOv.text">
+        <source>52345678</source>
+        <target>52345678</target>
+        <note>Class = "IBUILabel"; text = "52345678"; ObjectID = "Hx2-tm-mOv";</note>
+      </trans-unit>
+      <trans-unit id="Le2-UF-LLA.text">
+        <source>52345678</source>
+        <target>52345678</target>
+        <note>Class = "IBUILabel"; text = "52345678"; ObjectID = "Le2-UF-LLA";</note>
+      </trans-unit>
+      <trans-unit id="Uze-2i-ttB.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "IBUILabel"; text = "Label"; ObjectID = "Uze-2i-ttB";</note>
+      </trans-unit>
+      <trans-unit id="h0t-g1-awa.prompt">
+        <source>Please choose an account.</source>
+        <target>Please choose an account.</target>
+        <note>Class = "IBUINavigationItem"; prompt = "Please choose an account."; ObjectID = "h0t-g1-awa";</note>
+      </trans-unit>
+      <trans-unit id="h0t-g1-awa.title">
+        <source>Folders</source>
+        <target>Folders</target>
+        <note>Class = "IBUINavigationItem"; title = "Folders"; ObjectID = "h0t-g1-awa";</note>
+      </trans-unit>
+      <trans-unit id="j4X-2l-Ear.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "IBUILabel"; text = "Label"; ObjectID = "j4X-2l-Ear";</note>
+      </trans-unit>
+      <trans-unit id="lpS-sV-O4o.text">
+        <source>Subtitle</source>
+        <target>Subtitle</target>
+        <note>Class = "IBUILabel"; text = "Subtitle"; ObjectID = "lpS-sV-O4o";</note>
+      </trans-unit>
+      <trans-unit id="trC-Hi-lcj.text">
+        <source>OTP Auth</source>
+        <target>OTP Auth</target>
+        <note>Class = "IBUILabel"; text = "OTP Auth"; ObjectID = "trC-Hi-lcj";</note>
+      </trans-unit>
+      <trans-unit id="usy-yi-cGz.text">
+        <source>Folder</source>
+        <target>Folder</target>
+        <note>Class = "IBUILabel"; text = "Folder"; ObjectID = "usy-yi-cGz";</note>
+      </trans-unit>
+      <trans-unit id="xZ9-z7-y8j.text">
+        <source>Subtitle</source>
+        <target>Subtitle</target>
+        <note>Class = "IBUILabel"; text = "Subtitle"; ObjectID = "xZ9-z7-y8j";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Authenticator Action/Info.plist" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1.1" build-num="6A2008a"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>OTP Auth</source>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Authenticator Tests/Authenticator Tests-Info.plist" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1.1" build-num="6A2008a"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Authenticator Widget/Info.plist" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1.1" build-num="6A2008a"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>OTP Auth</source>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Authenticator/Authenticator-Info.plist" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1.1" build-num="6A2008a"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>${PRODUCT_NAME}</source>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>${PRODUCT_NAME}</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>2.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Authenticator/Base.lproj/FileBrowser.storyboard" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1.1" build-num="6A2008a"/>
+    </header>
+    <body>
+      <trans-unit id="1eo-8j-zUN.text">
+        <source>Detail</source>
+        <target>Detail</target>
+        <note>Class = "IBUILabel"; text = "Detail"; ObjectID = "1eo-8j-zUN";</note>
+      </trans-unit>
+      <trans-unit id="2LG-te-Vb1.text">
+        <source>Created</source>
+        <target>Created</target>
+        <note>Class = "IBUILabel"; text = "Created"; ObjectID = "2LG-te-Vb1";</note>
+      </trans-unit>
+      <trans-unit id="5tR-pa-kPt.text">
+        <source>10kb</source>
+        <target>10kb</target>
+        <note>Class = "IBUILabel"; text = "10kb"; ObjectID = "5tR-pa-kPt";</note>
+      </trans-unit>
+      <trans-unit id="5vF-fb-M0Y.title">
+        <source>Folder</source>
+        <target>Folder</target>
+        <note>Class = "IBUINavigationItem"; title = "Folder"; ObjectID = "5vF-fb-M0Y";</note>
+      </trans-unit>
+      <trans-unit id="6m3-A8-MZe.text">
+        <source>Detail</source>
+        <target>Detail</target>
+        <note>Class = "IBUILabel"; text = "Detail"; ObjectID = "6m3-A8-MZe";</note>
+      </trans-unit>
+      <trans-unit id="9pV-DX-JeZ.footerTitle">
+        <source>The name of the file can be changed by tapping on it. To confirm the new name hit return.</source>
+        <target>The name of the file can be changed by tapping on it. To confirm the new name hit return.</target>
+        <note>Class = "IBUITableViewSection"; footerTitle = "The name of the file can be changed by tapping on it. To confirm the new name hit return."; ObjectID = "9pV-DX-JeZ";</note>
+      </trans-unit>
+      <trans-unit id="9pV-DX-JeZ.headerTitle">
+        <source>General</source>
+        <target>General</target>
+        <note>Class = "IBUITableViewSection"; headerTitle = "General"; ObjectID = "9pV-DX-JeZ";</note>
+      </trans-unit>
+      <trans-unit id="BZU-6y-pgp.placeholder">
+        <source>Filename</source>
+        <target>Filename</target>
+        <note>Class = "IBUITextField"; placeholder = "Filename"; ObjectID = "BZU-6y-pgp";</note>
+      </trans-unit>
+      <trans-unit id="CWw-ah-fbv.text">
+        <source>Type</source>
+        <target>Type</target>
+        <note>Class = "IBUILabel"; text = "Type"; ObjectID = "CWw-ah-fbv";</note>
+      </trans-unit>
+      <trans-unit id="FgA-bE-YPc.text">
+        <source>Changed</source>
+        <target>Changed</target>
+        <note>Class = "IBUILabel"; text = "Changed"; ObjectID = "FgA-bE-YPc";</note>
+      </trans-unit>
+      <trans-unit id="HJx-pr-hkv.title">
+        <source>Choose</source>
+        <target>Choose</target>
+        <note>Class = "IBUIBarButtonItem"; title = "Choose"; ObjectID = "HJx-pr-hkv";</note>
+      </trans-unit>
+      <trans-unit id="HUp-98-KVB.title">
+        <source>Open</source>
+        <target>Open</target>
+        <note>Class = "IBUIBarButtonItem"; title = "Open"; ObjectID = "HUp-98-KVB";</note>
+      </trans-unit>
+      <trans-unit id="KHg-vp-gN7.title">
+        <source>Details</source>
+        <target>Details</target>
+        <note>Class = "IBUINavigationItem"; title = "Details"; ObjectID = "KHg-vp-gN7";</note>
+      </trans-unit>
+      <trans-unit id="LAo-QH-Xhc.text">
+        <source>10</source>
+        <target>10</target>
+        <note>Class = "IBUILabel"; text = "10"; ObjectID = "LAo-QH-Xhc";</note>
+      </trans-unit>
+      <trans-unit id="OTw-0m-I5d.text">
+        <source>Type</source>
+        <target>Type</target>
+        <note>Class = "IBUILabel"; text = "Type"; ObjectID = "OTw-0m-I5d";</note>
+      </trans-unit>
+      <trans-unit id="Pad-kb-rdX.footerTitle">
+        <source>The name of the file can be changed by tapping on it. To confirm the new name hit return.</source>
+        <target>The name of the file can be changed by tapping on it. To confirm the new name hit return.</target>
+        <note>Class = "IBUITableViewSection"; footerTitle = "The name of the file can be changed by tapping on it. To confirm the new name hit return."; ObjectID = "Pad-kb-rdX";</note>
+      </trans-unit>
+      <trans-unit id="Pad-kb-rdX.headerTitle">
+        <source>General</source>
+        <target>General</target>
+        <note>Class = "IBUITableViewSection"; headerTitle = "General"; ObjectID = "Pad-kb-rdX";</note>
+      </trans-unit>
+      <trans-unit id="QDd-c4-Cxh.placeholder">
+        <source>Filename</source>
+        <target>Filename</target>
+        <note>Class = "IBUITextField"; placeholder = "Filename"; ObjectID = "QDd-c4-Cxh";</note>
+      </trans-unit>
+      <trans-unit id="QNH-WW-cGJ.text">
+        <source>Detail</source>
+        <target>Detail</target>
+        <note>Class = "IBUILabel"; text = "Detail"; ObjectID = "QNH-WW-cGJ";</note>
+      </trans-unit>
+      <trans-unit id="RJR-KB-K3c.text">
+        <source>Detail</source>
+        <target>Detail</target>
+        <note>Class = "IBUILabel"; text = "Detail"; ObjectID = "RJR-KB-K3c";</note>
+      </trans-unit>
+      <trans-unit id="TTE-gq-YKm.text">
+        <source>Items</source>
+        <target>Items</target>
+        <note>Class = "IBUILabel"; text = "Items"; ObjectID = "TTE-gq-YKm";</note>
+      </trans-unit>
+      <trans-unit id="TZT-sb-IA2.text">
+        <source>OTPAuth File</source>
+        <target>OTPAuth File</target>
+        <note>Class = "IBUILabel"; text = "OTPAuth File"; ObjectID = "TZT-sb-IA2";</note>
+      </trans-unit>
+      <trans-unit id="VBa-3S-crb.text">
+        <source>Created</source>
+        <target>Created</target>
+        <note>Class = "IBUILabel"; text = "Created"; ObjectID = "VBa-3S-crb";</note>
+      </trans-unit>
+      <trans-unit id="b4X-ej-alv.text">
+        <source>Folder</source>
+        <target>Folder</target>
+        <note>Class = "IBUILabel"; text = "Folder"; ObjectID = "b4X-ej-alv";</note>
+      </trans-unit>
+      <trans-unit id="bCS-ua-ff1.text">
+        <source>Type</source>
+        <target>Type</target>
+        <note>Class = "IBUILabel"; text = "Type"; ObjectID = "bCS-ua-ff1";</note>
+      </trans-unit>
+      <trans-unit id="bg8-Tu-vPi.title">
+        <source>Details</source>
+        <target>Details</target>
+        <note>Class = "IBUINavigationItem"; title = "Details"; ObjectID = "bg8-Tu-vPi";</note>
+      </trans-unit>
+      <trans-unit id="biN-bm-P4H.text">
+        <source>File</source>
+        <target>File</target>
+        <note>Class = "IBUILabel"; text = "File"; ObjectID = "biN-bm-P4H";</note>
+      </trans-unit>
+      <trans-unit id="g3t-3v-fa4.text">
+        <source>Items</source>
+        <target>Items</target>
+        <note>Class = "IBUILabel"; text = "Items"; ObjectID = "g3t-3v-fa4";</note>
+      </trans-unit>
+      <trans-unit id="geT-RY-0tT.text">
+        <source>Name</source>
+        <target>Name</target>
+        <note>Class = "IBUILabel"; text = "Name"; ObjectID = "geT-RY-0tT";</note>
+      </trans-unit>
+      <trans-unit id="hcX-h3-THe.text">
+        <source>Created</source>
+        <target>Created</target>
+        <note>Class = "IBUILabel"; text = "Created"; ObjectID = "hcX-h3-THe";</note>
+      </trans-unit>
+      <trans-unit id="j1X-Is-O0l.text">
+        <source>Changed</source>
+        <target>Changed</target>
+        <note>Class = "IBUILabel"; text = "Changed"; ObjectID = "j1X-Is-O0l";</note>
+      </trans-unit>
+      <trans-unit id="mRf-SW-s6O.text">
+        <source>Name</source>
+        <target>Name</target>
+        <note>Class = "IBUILabel"; text = "Name"; ObjectID = "mRf-SW-s6O";</note>
+      </trans-unit>
+      <trans-unit id="qZW-KY-qHm.headerTitle">
+        <source>Attributes</source>
+        <target>Attributes</target>
+        <note>Class = "IBUITableViewSection"; headerTitle = "Attributes"; ObjectID = "qZW-KY-qHm";</note>
+      </trans-unit>
+      <trans-unit id="qoX-tD-ug1.placeholder">
+        <source>Filename</source>
+        <target>Filename</target>
+        <note>Class = "IBUITextField"; placeholder = "Filename"; ObjectID = "qoX-tD-ug1";</note>
+      </trans-unit>
+      <trans-unit id="qwL-Vf-Phf.text">
+        <source>Folder</source>
+        <target>Folder</target>
+        <note>Class = "IBUILabel"; text = "Folder"; ObjectID = "qwL-Vf-Phf";</note>
+      </trans-unit>
+      <trans-unit id="rFv-a0-p6b.title">
+        <source>Details</source>
+        <target>Details</target>
+        <note>Class = "IBUINavigationItem"; title = "Details"; ObjectID = "rFv-a0-p6b";</note>
+      </trans-unit>
+      <trans-unit id="rXP-Vv-Bma.footerTitle">
+        <source>The name of the file can be changed by tapping on it. To confirm the new name hit return.</source>
+        <target>The name of the file can be changed by tapping on it. To confirm the new name hit return.</target>
+        <note>Class = "IBUITableViewSection"; footerTitle = "The name of the file can be changed by tapping on it. To confirm the new name hit return."; ObjectID = "rXP-Vv-Bma";</note>
+      </trans-unit>
+      <trans-unit id="rXP-Vv-Bma.headerTitle">
+        <source>General</source>
+        <target>General</target>
+        <note>Class = "IBUITableViewSection"; headerTitle = "General"; ObjectID = "rXP-Vv-Bma";</note>
+      </trans-unit>
+      <trans-unit id="rdr-Ys-zda.text">
+        <source>10</source>
+        <target>10</target>
+        <note>Class = "IBUILabel"; text = "10"; ObjectID = "rdr-Ys-zda";</note>
+      </trans-unit>
+      <trans-unit id="syc-on-AXc.text">
+        <source>Size</source>
+        <target>Size</target>
+        <note>Class = "IBUILabel"; text = "Size"; ObjectID = "syc-on-AXc";</note>
+      </trans-unit>
+      <trans-unit id="v4O-p3-HqR.headerTitle">
+        <source>Attributes</source>
+        <target>Attributes</target>
+        <note>Class = "IBUITableViewSection"; headerTitle = "Attributes"; ObjectID = "v4O-p3-HqR";</note>
+      </trans-unit>
+      <trans-unit id="wnf-6q-9Ed.text">
+        <source>Changed</source>
+        <target>Changed</target>
+        <note>Class = "IBUILabel"; text = "Changed"; ObjectID = "wnf-6q-9Ed";</note>
+      </trans-unit>
+      <trans-unit id="x5Y-2c-iys.text">
+        <source>Folder</source>
+        <target>Folder</target>
+        <note>Class = "IBUILabel"; text = "Folder"; ObjectID = "x5Y-2c-iys";</note>
+      </trans-unit>
+      <trans-unit id="x9F-57-K9O.text">
+        <source>Name</source>
+        <target>Name</target>
+        <note>Class = "IBUILabel"; text = "Name"; ObjectID = "x9F-57-K9O";</note>
+      </trans-unit>
+      <trans-unit id="xpI-Iq-eC8.headerTitle">
+        <source>Attributes</source>
+        <target>Attributes</target>
+        <note>Class = "IBUITableViewSection"; headerTitle = "Attributes"; ObjectID = "xpI-Iq-eC8";</note>
+      </trans-unit>
+      <trans-unit id="yPj-2Q-KGI.text">
+        <source>Detail</source>
+        <target>Detail</target>
+        <note>Class = "IBUILabel"; text = "Detail"; ObjectID = "yPj-2Q-KGI";</note>
+      </trans-unit>
+      <trans-unit id="zKe-BS-yBb.text">
+        <source>Detail</source>
+        <target>Detail</target>
+        <note>Class = "IBUILabel"; text = "Detail"; ObjectID = "zKe-BS-yBb";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Authenticator/Base.lproj/MainStoryboard.storyboard" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1.1" build-num="6A2008a"/>
+    </header>
+    <body>
+      <trans-unit id="1IU-Kn-AIC.text">
+        <source>SHA512</source>
+        <target>SHA512</target>
+        <note>Class = "IBUILabel"; text = "SHA512"; ObjectID = "1IU-Kn-AIC";</note>
+      </trans-unit>
+      <trans-unit id="2Cf-dY-BWr.text">
+        <source>10 digits</source>
+        <target>10 digits</target>
+        <note>Class = "IBUILabel"; text = "10 digits"; ObjectID = "2Cf-dY-BWr";</note>
+      </trans-unit>
+      <trans-unit id="2Lo-tD-pHZ.footerTitle">
+        <source>Copyright (c) 2011-2013 Sam Soffes, http://soff.es\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.</source>
+        <target>Copyright (c) 2011-2013 Sam Soffes, http://soff.es\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.</target>
+        <note>Class = "IBUITableViewSection"; footerTitle = "Copyright (c) 2011-2013 Sam Soffes, http://soff.es\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE."; ObjectID = "2Lo-tD-pHZ";</note>
+      </trans-unit>
+      <trans-unit id="2aW-Ln-BEy.text">
+        <source>Subtitle</source>
+        <target>Subtitle</target>
+        <note>Class = "IBUILabel"; text = "Subtitle"; ObjectID = "2aW-Ln-BEy";</note>
+      </trans-unit>
+      <trans-unit id="3N9-qw-hCz.text">
+        <source>Pasword</source>
+        <target>Pasword</target>
+        <note>Class = "IBUILabel"; text = "Pasword"; ObjectID = "3N9-qw-hCz";</note>
+      </trans-unit>
+      <trans-unit id="5KD-ld-kXd.title">
+        <source>Folders</source>
+        <target>Folders</target>
+      </trans-unit>
+      <trans-unit id="5ct-jP-WVS.title">
+        <source>UICKeyChainStore</source>
+        <target>UICKeyChainStore</target>
+        <note>Class = "IBUINavigationItem"; title = "UICKeyChainStore"; ObjectID = "5ct-jP-WVS";</note>
+      </trans-unit>
+      <trans-unit id="6OH-Ti-7ZL.text">
+        <source>6 / 8</source>
+        <target>6 / 8</target>
+        <note>Class = "IBUILabel"; text = "6 / 8"; ObjectID = "6OH-Ti-7ZL";</note>
+      </trans-unit>
+      <trans-unit id="6yB-1B-XYC.text">
+        <source>Counter</source>
+        <target>Counter</target>
+        <note>Class = "IBUILabel"; text = "Counter"; ObjectID = "6yB-1B-XYC";</note>
+      </trans-unit>
+      <trans-unit id="7Rd-6t-9KG.title">
+        <source>New Account</source>
+        <target>New Account</target>
+        <note>Class = "IBUINavigationItem"; title = "New Account"; ObjectID = "7Rd-6t-9KG";</note>
+      </trans-unit>
+      <trans-unit id="7Vt-lf-2Ur.text">
+        <source>AYVibrantButton</source>
+        <target>AYVibrantButton</target>
+        <note>Class = "IBUILabel"; text = "AYVibrantButton"; ObjectID = "7Vt-lf-2Ur";</note>
+      </trans-unit>
+      <trans-unit id="7Wb-5A-M7x.text">
+        <source>SHA256</source>
+        <target>SHA256</target>
+        <note>Class = "IBUILabel"; text = "SHA256"; ObjectID = "7Wb-5A-M7x";</note>
+      </trans-unit>
+      <trans-unit id="7fa-Pf-Auo.text">
+        <source>52345678</source>
+        <target>52345678</target>
+        <note>Class = "IBUILabel"; text = "52345678"; ObjectID = "7fa-Pf-Auo";</note>
+      </trans-unit>
+      <trans-unit id="7nD-Kb-S7U.footerTitle">
+        <source>Copyright 2011 Google Inc.\n\nApache License\nVersion 2.0, January 2004\n\nhttp://www.apache.org/licenses/\n\nTERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION\n\n1. Definitions.\n\n'License' shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.\n\n'Licensor' shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.\n\n'Legal Entity' shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, 'control' means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.\n\n'You' (or 'Your') shall mean an individual or Legal Entity exercising permissions granted by this License.\n\n'Source' form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.\n\n'Object' form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.\n\n'Work' shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).\n\n'Derivative Works' shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.\n\n'Contribution' shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, 'submitted' means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as 'Not a Contribution.'\n\n'Contributor' shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.\n\n2. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.\n\n3. Grant of Patent License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.\n\n4. Redistribution. You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions:\n\nYou must give any other recipients of the Work or Derivative Works a copy of this License; and\nYou must cause any modified files to carry prominent notices stating that You changed the files; and\nYou must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and\nIf the Work includes a 'NOTICE' text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License. \n\nYou may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.\n5. Submission of Contributions. Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such Contributions.\n\n6. Trademarks. This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.\n\n7. Disclaimer of Warranty. Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an 'AS IS' BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.\n\n8. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.\n\n9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.</source>
+        <target>Copyright 2011 Google Inc.\n\nApache License\nVersion 2.0, January 2004\n\nhttp://www.apache.org/licenses/\n\nTERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION\n\n1. Definitions.\n\n'License' shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.\n\n'Licensor' shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.\n\n'Legal Entity' shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, 'control' means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.\n\n'You' (or 'Your') shall mean an individual or Legal Entity exercising permissions granted by this License.\n\n'Source' form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.\n\n'Object' form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.\n\n'Work' shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).\n\n'Derivative Works' shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.\n\n'Contribution' shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, 'submitted' means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as 'Not a Contribution.'\n\n'Contributor' shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.\n\n2. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.\n\n3. Grant of Patent License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.\n\n4. Redistribution. You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions:\n\nYou must give any other recipients of the Work or Derivative Works a copy of this License; and\nYou must cause any modified files to carry prominent notices stating that You changed the files; and\nYou must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and\nIf the Work includes a 'NOTICE' text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License. \n\nYou may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.\n5. Submission of Contributions. Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such Contributions.\n\n6. Trademarks. This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.\n\n7. Disclaimer of Warranty. Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an 'AS IS' BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.\n\n8. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.\n\n9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.</target>
+        <note>Class = "IBUITableViewSection"; footerTitle = "Copyright 2011 Google Inc.\n\nApache License\nVersion 2.0, January 2004\n\nhttp://www.apache.org/licenses/\n\nTERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION\n\n1. Definitions.\n\n'License' shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.\n\n'Licensor' shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.\n\n'Legal Entity' shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, 'control' means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.\n\n'You' (or 'Your') shall mean an individual or Legal Entity exercising permissions granted by this License.\n\n'Source' form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.\n\n'Object' form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.\n\n'Work' shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).\n\n'Derivative Works' shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.\n\n'Contribution' shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, 'submitted' means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as 'Not a Contribution.'\n\n'Contributor' shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.\n\n2. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.\n\n3. Grant of Patent License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.\n\n4. Redistribution. You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions:\n\nYou must give any other recipients of the Work or Derivative Works a copy of this License; and\nYou must cause any modified files to carry prominent notices stating that You changed the files; and\nYou must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and\nIf the Work includes a 'NOTICE' text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License. \n\nYou may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.\n5. Submission of Contributions. Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such Contributions.\n\n6. Trademarks. This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.\n\n7. Disclaimer of Warranty. Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an 'AS IS' BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.\n\n8. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.\n\n9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability."; ObjectID = "7nD-Kb-S7U";</note>
+      </trans-unit>
+      <trans-unit id="9Hj-bJ-HRy.text">
+        <source>52345678</source>
+        <target>52345678</target>
+        <note>Class = "IBUILabel"; text = "52345678"; ObjectID = "9Hj-bJ-HRy";</note>
+      </trans-unit>
+      <trans-unit id="12.title">
+        <source>Master</source>
+        <target>Master</target>
+        <note>Class = "IBUITableViewController"; title = "Master"; ObjectID = "12";</note>
+      </trans-unit>
+      <trans-unit id="13r-t0-Sdr.text">
+        <source>Secret</source>
+        <target>Secret</target>
+        <note>Class = "IBUILabel"; text = "Secret"; ObjectID = "13r-t0-Sdr";</note>
+      </trans-unit>
+      <trans-unit id="25n-t8-G4J.title">
+        <source>AYVibrantButton</source>
+        <target>AYVibrantButton</target>
+        <note>Class = "IBUINavigationItem"; title = "AYVibrantButton"; ObjectID = "25n-t8-G4J";</note>
+      </trans-unit>
+      <trans-unit id="26q-qk-WyY.footerTitle">
+        <source>When iCloud Sync is enabled, accounts are automatically synchronized across all devices using the same iCloud account. This option is only available, if you are logged into an iCloud account on your current device.\n\nIf you are asked to purchase this feature even though you already purchased it, try to restore purchases with the button bellow.</source>
+        <target>When iCloud Sync is enabled, accounts are automatically synchronized across all devices using the same iCloud account. This option is only available, if you are logged into an iCloud account on your current device.\n\nIf you are asked to purchase this feature even though you already purchased it, try to restore purchases with the button bellow.</target>
+        <note>Class = "IBUITableViewSection"; footerTitle = "When iCloud Sync is enabled, accounts are automatically synchronized across all devices using the same iCloud account. This option is only available, if you are logged into an iCloud account on your current device.\n\nIf you are asked to purchase this feature even though you already purchased it, try to restore purchases with the button bellow."; ObjectID = "26q-qk-WyY";</note>
+      </trans-unit>
+      <trans-unit id="26q-qk-WyY.headerTitle">
+        <source>Sync</source>
+        <target>Sync</target>
+        <note>Class = "IBUITableViewSection"; headerTitle = "Sync"; ObjectID = "26q-qk-WyY";</note>
+      </trans-unit>
+      <trans-unit id="36.title">
+        <source>Folder</source>
+        <target>Folder</target>
+        <note>Class = "IBUINavigationItem"; title = "Folder"; ObjectID = "36";</note>
+      </trans-unit>
+      <trans-unit id="Bn0-MO-g6W.text">
+        <source>Counter-based OTP</source>
+        <target>Counter-based OTP</target>
+        <note>Class = "IBUILabel"; text = "Counter-based OTP"; ObjectID = "Bn0-MO-g6W";</note>
+      </trans-unit>
+      <trans-unit id="D7O-cV-R3H.text">
+        <source>OTP Auth</source>
+        <target>OTP Auth</target>
+        <note>Class = "IBUILabel"; text = "OTP Auth"; ObjectID = "D7O-cV-R3H";</note>
+      </trans-unit>
+      <trans-unit id="DN6-Ih-KjG.text">
+        <source>Time-based OTP</source>
+        <target>Time-based OTP</target>
+        <note>Class = "IBUILabel"; text = "Time-based OTP"; ObjectID = "DN6-Ih-KjG";</note>
+      </trans-unit>
+      <trans-unit id="Da6-G2-3ug.text">
+        <source>Show all accounts button</source>
+        <target>Show all accounts button</target>
+        <note>Class = "IBUILabel"; text = "Show all accounts button"; ObjectID = "Da6-G2-3ug";</note>
+      </trans-unit>
+      <trans-unit id="DaM-0w-xOY.title">
+        <source>MBProgressHUD</source>
+        <target>MBProgressHUD</target>
+        <note>Class = "IBUINavigationItem"; title = "MBProgressHUD"; ObjectID = "DaM-0w-xOY";</note>
+      </trans-unit>
+      <trans-unit id="EYk-YS-FEg.text">
+        <source>MBProgressHUD</source>
+        <target>MBProgressHUD</target>
+        <note>Class = "IBUILabel"; text = "MBProgressHUD"; ObjectID = "EYk-YS-FEg";</note>
+      </trans-unit>
+      <trans-unit id="Egl-6H-uCu.footerTitle">
+        <source>Name and issuer will not be used for generating codes and can be changed.</source>
+        <target>Name and issuer will not be used for generating codes and can be changed.</target>
+        <note>Class = "IBUITableViewSection"; footerTitle = "Name and issuer will not be used for generating codes and can be changed."; ObjectID = "Egl-6H-uCu";</note>
+      </trans-unit>
+      <trans-unit id="Egl-6H-uCu.headerTitle">
+        <source>General</source>
+        <target>General</target>
+        <note>Class = "IBUITableViewSection"; headerTitle = "General"; ObjectID = "Egl-6H-uCu";</note>
+      </trans-unit>
+      <trans-unit id="Esh-Mf-bJn.text">
+        <source>OTPGenerators</source>
+        <target>OTPGenerators</target>
+        <note>Class = "IBUILabel"; text = "OTPGenerators"; ObjectID = "Esh-Mf-bJn";</note>
+      </trans-unit>
+      <trans-unit id="Fh3-2z-bza.title">
+        <source>MRProgress</source>
+        <target>MRProgress</target>
+        <note>Class = "IBUINavigationItem"; title = "MRProgress"; ObjectID = "Fh3-2z-bza";</note>
+      </trans-unit>
+      <trans-unit id="FvC-sp-4xI.footerTitle">
+        <source>Before you can start using OTP Auth you need to set up a password. This password is used to securely save the accounts managed by OTP Auth.\n\nIf you are updating from an older version of OTP Auth, your accounts will be migrated.</source>
+        <target>Before you can start using OTP Auth you need to set up a password. This password is used to securely save the accounts managed by OTP Auth.\n\nIf you are updating from an older version of OTP Auth, your accounts will be migrated.</target>
+        <note>Class = "IBUITableViewSection"; footerTitle = "Before you can start using OTP Auth you need to set up a password. This password is used to securely save the accounts managed by OTP Auth.\n\nIf you are updating from an older version of OTP Auth, your accounts will be migrated."; ObjectID = "FvC-sp-4xI";</note>
+      </trans-unit>
+      <trans-unit id="HXd-Jl-ZQY.text">
+        <source>Name</source>
+        <target>Name</target>
+        <note>Class = "IBUILabel"; text = "Name"; ObjectID = "HXd-Jl-ZQY";</note>
+      </trans-unit>
+      <trans-unit id="He5-el-yCD.text">
+        <source>Algorithm</source>
+        <target>Algorithm</target>
+        <note>Class = "IBUILabel"; text = "Algorithm"; ObjectID = "He5-el-yCD";</note>
+      </trans-unit>
+      <trans-unit id="HqQ-jA-Kog.prompt">
+        <source>Please choose a folder.</source>
+        <target>Please choose a folder.</target>
+        <note>Class = "IBUINavigationItem"; prompt = "Please choose a folder."; ObjectID = "HqQ-jA-Kog";</note>
+      </trans-unit>
+      <trans-unit id="HqQ-jA-Kog.title">
+        <source>Folders</source>
+        <target>Folders</target>
+        <note>Class = "IBUINavigationItem"; title = "Folders"; ObjectID = "HqQ-jA-Kog";</note>
+      </trans-unit>
+      <trans-unit id="IE7-QK-1Yh.prompt">
+        <source>Please choose an account.</source>
+        <target>Please choose an account.</target>
+        <note>Class = "IBUINavigationItem"; prompt = "Please choose an account."; ObjectID = "IE7-QK-1Yh";</note>
+      </trans-unit>
+      <trans-unit id="IE7-QK-1Yh.title">
+        <source>Folders</source>
+        <target>Folders</target>
+        <note>Class = "IBUINavigationItem"; title = "Folders"; ObjectID = "IE7-QK-1Yh";</note>
+      </trans-unit>
+      <trans-unit id="IFP-yZ-xA8.text">
+        <source>6 digits</source>
+        <target>6 digits</target>
+        <note>Class = "IBUILabel"; text = "6 digits"; ObjectID = "IFP-yZ-xA8";</note>
+      </trans-unit>
+      <trans-unit id="Ia2-Hy-kXf.footerTitle">
+        <source>Copyright (c) 1998-2011 The OpenSSL Project.  All rights reserved.\n\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\n1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\n2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\n3. All advertising materials mentioning features or use of this software must display the following acknowledgment: 'This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit. (http://www.openssl.org/)'\n4. The names 'OpenSSL Toolkit' and 'OpenSSL Project' must not be used to endorse or promote products derived from this software without prior written permission. For written permission, please contact openssl-core@openssl.org.\n5. Products derived from this software may not be called 'OpenSSL' nor may 'OpenSSL' appear in their names without prior written permission of the OpenSSL Project.\n6. Redistributions of any form whatsoever must retain the following acknowledgment:\n'This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/)'\n\nTHIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE OpenSSL PROJECT OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,\nSPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n\n============================\n\nThis product includes cryptographic software written by Eric Young (eay@cryptsoft.com).  This product includes software written by Tim Hudson (tjh@cryptsoft.com).\n</source>
+        <target>Copyright (c) 1998-2011 The OpenSSL Project.  All rights reserved.\n\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\n1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\n2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\n3. All advertising materials mentioning features or use of this software must display the following acknowledgment: 'This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit. (http://www.openssl.org/)'\n4. The names 'OpenSSL Toolkit' and 'OpenSSL Project' must not be used to endorse or promote products derived from this software without prior written permission. For written permission, please contact openssl-core@openssl.org.\n5. Products derived from this software may not be called 'OpenSSL' nor may 'OpenSSL' appear in their names without prior written permission of the OpenSSL Project.\n6. Redistributions of any form whatsoever must retain the following acknowledgment:\n'This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/)'\n\nTHIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE OpenSSL PROJECT OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,\nSPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n\n============================\n\nThis product includes cryptographic software written by Eric Young (eay@cryptsoft.com).  This product includes software written by Tim Hudson (tjh@cryptsoft.com).\n</target>
+        <note>Class = "IBUITableViewSection"; footerTitle = "Copyright (c) 1998-2011 The OpenSSL Project.  All rights reserved.\n\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\n1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\n2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\n3. All advertising materials mentioning features or use of this software must display the following acknowledgment: 'This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit. (http://www.openssl.org/)'\n4. The names 'OpenSSL Toolkit' and 'OpenSSL Project' must not be used to endorse or promote products derived from this software without prior written permission. For written permission, please contact openssl-core@openssl.org.\n5. Products derived from this software may not be called 'OpenSSL' nor may 'OpenSSL' appear in their names without prior written permission of the OpenSSL Project.\n6. Redistributions of any form whatsoever must retain the following acknowledgment:\n'This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/)'\n\nTHIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE OpenSSL PROJECT OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,\nSPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n\n============================\n\nThis product includes cryptographic software written by Eric Young (eay@cryptsoft.com).  This product includes software written by Tim Hudson (tjh@cryptsoft.com).\n"; ObjectID = "Ia2-Hy-kXf";</note>
+      </trans-unit>
+      <trans-unit id="K9J-LT-oqf.text">
+        <source>HOTP / TOTP</source>
+        <target>HOTP / TOTP</target>
+        <note>Class = "IBUILabel"; text = "HOTP / TOTP"; ObjectID = "K9J-LT-oqf";</note>
+      </trans-unit>
+      <trans-unit id="Kzg-Vj-7ri.text">
+        <source>Require on start</source>
+        <target>Require on start</target>
+        <note>Class = "IBUILabel"; text = "Require on start"; ObjectID = "Kzg-Vj-7ri";</note>
+      </trans-unit>
+      <trans-unit id="LcZ-mu-Wo7.footerTitle">
+        <source>If the password is required on start, you have to enter the password every time when starting OTP Auth or when switching from another app.\n\nInstead of entering the password you can also enable Touch ID. This option is only available, if your devices supports Touch ID and the password is required on start.</source>
+        <target>If the password is required on start, you have to enter the password every time when starting OTP Auth or when switching from another app.\n\nInstead of entering the password you can also enable Touch ID. This option is only available, if your devices supports Touch ID and the password is required on start.</target>
+        <note>Class = "IBUITableViewSection"; footerTitle = "If the password is required on start, you have to enter the password every time when starting OTP Auth or when switching from another app.\n\nInstead of entering the password you can also enable Touch ID. This option is only available, if your devices supports Touch ID and the password is required on start."; ObjectID = "LcZ-mu-Wo7";</note>
+      </trans-unit>
+      <trans-unit id="LcZ-mu-Wo7.headerTitle">
+        <source>Options</source>
+        <target>Options</target>
+        <note>Class = "IBUITableViewSection"; headerTitle = "Options"; ObjectID = "LcZ-mu-Wo7";</note>
+      </trans-unit>
+      <trans-unit id="Lv3-Vj-bDY.title">
+        <source>OTPGenerators</source>
+        <target>OTPGenerators</target>
+        <note>Class = "IBUINavigationItem"; title = "OTPGenerators"; ObjectID = "Lv3-Vj-bDY";</note>
+      </trans-unit>
+      <trans-unit id="MHQ-Z1-c5E.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "IBUILabel"; text = "Label"; ObjectID = "MHQ-Z1-c5E";</note>
+      </trans-unit>
+      <trans-unit id="MXY-Te-awK.footerTitle">
+        <source>Copyright 2013-2014 Robot Media SL\n\nApache License\nVersion 2.0, January 2004\n\nhttp://www.apache.org/licenses/\n\nTERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION\n\n1. Definitions.\n\n'License' shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.\n\n'Licensor' shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.\n\n'Legal Entity' shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, 'control' means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.\n\n'You' (or 'Your') shall mean an individual or Legal Entity exercising permissions granted by this License.\n\n'Source' form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.\n\n'Object' form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.\n\n'Work' shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).\n\n'Derivative Works' shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.\n\n'Contribution' shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, 'submitted' means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as 'Not a Contribution.'\n\n'Contributor' shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.\n\n2. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.\n\n3. Grant of Patent License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.\n\n4. Redistribution. You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions:\n\nYou must give any other recipients of the Work or Derivative Works a copy of this License; and\nYou must cause any modified files to carry prominent notices stating that You changed the files; and\nYou must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and\nIf the Work includes a 'NOTICE' text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License. \n\nYou may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.\n5. Submission of Contributions. Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such Contributions.\n\n6. Trademarks. This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.\n\n7. Disclaimer of Warranty. Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an 'AS IS' BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.\n\n8. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.\n\n9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.</source>
+        <target>Copyright 2013-2014 Robot Media SL\n\nApache License\nVersion 2.0, January 2004\n\nhttp://www.apache.org/licenses/\n\nTERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION\n\n1. Definitions.\n\n'License' shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.\n\n'Licensor' shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.\n\n'Legal Entity' shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, 'control' means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.\n\n'You' (or 'Your') shall mean an individual or Legal Entity exercising permissions granted by this License.\n\n'Source' form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.\n\n'Object' form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.\n\n'Work' shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).\n\n'Derivative Works' shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.\n\n'Contribution' shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, 'submitted' means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as 'Not a Contribution.'\n\n'Contributor' shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.\n\n2. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.\n\n3. Grant of Patent License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.\n\n4. Redistribution. You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions:\n\nYou must give any other recipients of the Work or Derivative Works a copy of this License; and\nYou must cause any modified files to carry prominent notices stating that You changed the files; and\nYou must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and\nIf the Work includes a 'NOTICE' text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License. \n\nYou may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.\n5. Submission of Contributions. Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such Contributions.\n\n6. Trademarks. This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.\n\n7. Disclaimer of Warranty. Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an 'AS IS' BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.\n\n8. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.\n\n9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.</target>
+        <note>Class = "IBUITableViewSection"; footerTitle = "Copyright 2013-2014 Robot Media SL\n\nApache License\nVersion 2.0, January 2004\n\nhttp://www.apache.org/licenses/\n\nTERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION\n\n1. Definitions.\n\n'License' shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.\n\n'Licensor' shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.\n\n'Legal Entity' shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, 'control' means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.\n\n'You' (or 'Your') shall mean an individual or Legal Entity exercising permissions granted by this License.\n\n'Source' form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.\n\n'Object' form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.\n\n'Work' shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).\n\n'Derivative Works' shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.\n\n'Contribution' shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, 'submitted' means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as 'Not a Contribution.'\n\n'Contributor' shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.\n\n2. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.\n\n3. Grant of Patent License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.\n\n4. Redistribution. You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions:\n\nYou must give any other recipients of the Work or Derivative Works a copy of this License; and\nYou must cause any modified files to carry prominent notices stating that You changed the files; and\nYou must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and\nIf the Work includes a 'NOTICE' text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License. \n\nYou may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.\n5. Submission of Contributions. Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such Contributions.\n\n6. Trademarks. This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.\n\n7. Disclaimer of Warranty. Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an 'AS IS' BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.\n\n8. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.\n\n9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability."; ObjectID = "MXY-Te-awK";</note>
+      </trans-unit>
+      <trans-unit id="MjP-vm-qey.text">
+        <source>iCloud</source>
+        <target>iCloud</target>
+        <note>Class = "IBUILabel"; text = "iCloud"; ObjectID = "MjP-vm-qey";</note>
+      </trans-unit>
+      <trans-unit id="OZt-YT-Y36.text">
+        <source>OpenSSL</source>
+        <target>OpenSSL</target>
+        <note>Class = "IBUILabel"; text = "OpenSSL"; ObjectID = "OZt-YT-Y36";</note>
+      </trans-unit>
+      <trans-unit id="PL0-UV-H5l.footerTitle">
+        <source>Copyright (c) 2011 kishikawa katsumi\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.</source>
+        <target>Copyright (c) 2011 kishikawa katsumi\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.</target>
+        <note>Class = "IBUITableViewSection"; footerTitle = "Copyright (c) 2011 kishikawa katsumi\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE."; ObjectID = "PL0-UV-H5l";</note>
+      </trans-unit>
+      <trans-unit id="Pcl-vm-587.footerTitle">
+        <source>Choose which type of code should be generated for this account.</source>
+        <target>Choose which type of code should be generated for this account.</target>
+        <note>Class = "IBUITableViewSection"; footerTitle = "Choose which type of code should be generated for this account."; ObjectID = "Pcl-vm-587";</note>
+      </trans-unit>
+      <trans-unit id="Ppr-Ug-xHH.text">
+        <source>30</source>
+        <target>30</target>
+        <note>Class = "IBUILabel"; text = "30"; ObjectID = "Ppr-Ug-xHH";</note>
+      </trans-unit>
+      <trans-unit id="QCt-qx-01A.text">
+        <source>Repeat</source>
+        <target>Repeat</target>
+        <note>Class = "IBUILabel"; text = "Repeat"; ObjectID = "QCt-qx-01A";</note>
+      </trans-unit>
+      <trans-unit id="SXS-VF-dbF.title">
+        <source>PDKeychainBindings</source>
+        <target>PDKeychainBindings</target>
+        <note>Class = "IBUINavigationItem"; title = "PDKeychainBindings"; ObjectID = "SXS-VF-dbF";</note>
+      </trans-unit>
+      <trans-unit id="TOm-8Y-ziq.text">
+        <source>MD5</source>
+        <target>MD5</target>
+        <note>Class = "IBUILabel"; text = "MD5"; ObjectID = "TOm-8Y-ziq";</note>
+      </trans-unit>
+      <trans-unit id="TT4-Wb-ydD.text">
+        <source>Issuer</source>
+        <target>Issuer</target>
+        <note>Class = "IBUILabel"; text = "Issuer"; ObjectID = "TT4-Wb-ydD";</note>
+      </trans-unit>
+      <trans-unit id="UWm-o0-JS4.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "IBUILabel"; text = "Label"; ObjectID = "UWm-o0-JS4";</note>
+      </trans-unit>
+      <trans-unit id="UmN-4t-lKZ.text">
+        <source>Title</source>
+        <target>Title</target>
+        <note>Class = "IBUILabel"; text = "Title"; ObjectID = "UmN-4t-lKZ";</note>
+      </trans-unit>
+      <trans-unit id="V6e-PG-2JK.title">
+        <source>Algorithm</source>
+        <target>Algorithm</target>
+        <note>Class = "IBUINavigationItem"; title = "Algorithm"; ObjectID = "V6e-PG-2JK";</note>
+      </trans-unit>
+      <trans-unit id="Wk5-Ju-Ldh.text">
+        <source>Touch ID</source>
+        <target>Touch ID</target>
+        <note>Class = "IBUILabel"; text = "Touch ID"; ObjectID = "Wk5-Ju-Ldh";</note>
+      </trans-unit>
+      <trans-unit id="WoL-Kg-Rzv.text">
+        <source>Folder</source>
+        <target>Folder</target>
+      </trans-unit>
+      <trans-unit id="WvJ-ag-0qA.text">
+        <source>SHA1 / SHA256 / ...</source>
+        <target>SHA1 / SHA256 / ...</target>
+        <note>Class = "IBUILabel"; text = "SHA1 / SHA256 / ..."; ObjectID = "WvJ-ag-0qA";</note>
+      </trans-unit>
+      <trans-unit id="XY1-c5-4Gr.text">
+        <source>OTP Auth</source>
+        <target>OTP Auth</target>
+        <note>Class = "IBUILabel"; text = "OTP Auth"; ObjectID = "XY1-c5-4Gr";</note>
+      </trans-unit>
+      <trans-unit id="ZB8-uE-H0F.footerTitle">
+        <source>Copyright (c) 2013 Marius Rackwitz\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.</source>
+        <target>Copyright (c) 2013 Marius Rackwitz\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.</target>
+        <note>Class = "IBUITableViewSection"; footerTitle = "Copyright (c) 2013 Marius Rackwitz\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE."; ObjectID = "ZB8-uE-H0F";</note>
+      </trans-unit>
+      <trans-unit id="ZhS-dV-inH.placeholder">
+        <source>Google Mail</source>
+        <target>Google Mail</target>
+        <note>Class = "IBUITextField"; placeholder = "Google Mail"; ObjectID = "ZhS-dV-inH";</note>
+      </trans-unit>
+      <trans-unit id="aXG-kB-8fH.placeholder">
+        <source>Secret</source>
+        <target>Secret</target>
+        <note>Class = "IBUITextField"; placeholder = "Secret"; ObjectID = "aXG-kB-8fH";</note>
+      </trans-unit>
+      <trans-unit id="awW-co-GET.headerTitle">
+        <source>Password</source>
+        <target>Password</target>
+        <note>Class = "IBUITableViewSection"; headerTitle = "Password"; ObjectID = "awW-co-GET";</note>
+      </trans-unit>
+      <trans-unit id="bRP-Nl-fLz.title">
+        <source>Setup</source>
+        <target>Setup</target>
+        <note>Class = "IBUIBarButtonItem"; title = "Setup"; ObjectID = "bRP-Nl-fLz";</note>
+      </trans-unit>
+      <trans-unit id="bW1-dM-es5.footerTitle">
+        <source>Copyright 2011 PDAgent, LLC.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.</source>
+        <target>Copyright 2011 PDAgent, LLC.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.</target>
+        <note>Class = "IBUITableViewSection"; footerTitle = "Copyright 2011 PDAgent, LLC.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE."; ObjectID = "bW1-dM-es5";</note>
+      </trans-unit>
+      <trans-unit id="brn-GI-hVE.headerTitle">
+        <source>In-App Purchases</source>
+        <target>In-App Purchases</target>
+        <note>Class = "IBUITableViewSection"; headerTitle = "In-App Purchases"; ObjectID = "brn-GI-hVE";</note>
+      </trans-unit>
+      <trans-unit id="cIR-40-wdd.text">
+        <source>Change password…</source>
+        <target>Change password…</target>
+        <note>Class = "IBUILabel"; text = "Change password…"; ObjectID = "cIR-40-wdd";</note>
+      </trans-unit>
+      <trans-unit id="cj6-le-jr0.text">
+        <source>Issuer</source>
+        <target>Issuer</target>
+        <note>Class = "IBUILabel"; text = "Issuer"; ObjectID = "cj6-le-jr0";</note>
+      </trans-unit>
+      <trans-unit id="d0R-54-afl.text">
+        <source>RMStore</source>
+        <target>RMStore</target>
+        <note>Class = "IBUILabel"; text = "RMStore"; ObjectID = "d0R-54-afl";</note>
+      </trans-unit>
+      <trans-unit id="duW-AH-Fo6.title">
+        <source>Settings</source>
+        <target>Settings</target>
+        <note>Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "duW-AH-Fo6";</note>
+      </trans-unit>
+      <trans-unit id="eVm-Eg-DP8.text">
+        <source>Name</source>
+        <target>Name</target>
+        <note>Class = "IBUILabel"; text = "Name"; ObjectID = "eVm-Eg-DP8";</note>
+      </trans-unit>
+      <trans-unit id="edF-r4-4Mg.text">
+        <source>About</source>
+        <target>About</target>
+        <note>Class = "IBUILabel"; text = "About"; ObjectID = "edF-r4-4Mg";</note>
+      </trans-unit>
+      <trans-unit id="ef2-kR-oI5.text">
+        <source>Folder</source>
+        <target>Folder</target>
+        <note>Class = "IBUILabel"; text = "Folder"; ObjectID = "ef2-kR-oI5";</note>
+      </trans-unit>
+      <trans-unit id="ezL-lq-Oq3.text">
+        <source>PIN</source>
+        <target>PIN</target>
+        <note>Class = "IBUILabel"; text = "PIN"; ObjectID = "ezL-lq-Oq3";</note>
+      </trans-unit>
+      <trans-unit id="gbJ-IK-W1a.text">
+        <source>Subtitle</source>
+        <target>Subtitle</target>
+        <note>Class = "IBUILabel"; text = "Subtitle"; ObjectID = "gbJ-IK-W1a";</note>
+      </trans-unit>
+      <trans-unit id="gw5-Pd-VZH.text">
+        <source>SAMBadgeView</source>
+        <target>SAMBadgeView</target>
+        <note>Class = "IBUILabel"; text = "SAMBadgeView"; ObjectID = "gw5-Pd-VZH";</note>
+      </trans-unit>
+      <trans-unit id="hCn-qL-olb.footerTitle">
+        <source>If the password is required on start, you have to enter the password every time when starting OTP Auth or when switching from another app.\n\nInstead of entering the password you can also enable Touch ID. This option is only available, if your devices supports Touch ID and the password is required on start.</source>
+        <target>If the password is required on start, you have to enter the password every time when starting OTP Auth or when switching from another app.\n\nInstead of entering the password you can also enable Touch ID. This option is only available, if your devices supports Touch ID and the password is required on start.</target>
+        <note>Class = "IBUITableViewSection"; footerTitle = "If the password is required on start, you have to enter the password every time when starting OTP Auth or when switching from another app.\n\nInstead of entering the password you can also enable Touch ID. This option is only available, if your devices supports Touch ID and the password is required on start."; ObjectID = "hCn-qL-olb";</note>
+      </trans-unit>
+      <trans-unit id="hkQ-On-sjB.prompt">
+        <source>Please choose an account.</source>
+        <target>Please choose an account.</target>
+        <note>Class = "IBUINavigationItem"; prompt = "Please choose an account."; ObjectID = "hkQ-On-sjB";</note>
+      </trans-unit>
+      <trans-unit id="hkQ-On-sjB.title">
+        <source>aFolder</source>
+        <target>aFolder</target>
+        <note>Class = "IBUINavigationItem"; title = "aFolder"; ObjectID = "hkQ-On-sjB";</note>
+      </trans-unit>
+      <trans-unit id="iXQ-4R-b5m.title">
+        <source>SAMBadgeView</source>
+        <target>SAMBadgeView</target>
+        <note>Class = "IBUINavigationItem"; title = "SAMBadgeView"; ObjectID = "iXQ-4R-b5m";</note>
+      </trans-unit>
+      <trans-unit id="jI6-E8-RIV.text">
+        <source>Touch ID</source>
+        <target>Touch ID</target>
+        <note>Class = "IBUILabel"; text = "Touch ID"; ObjectID = "jI6-E8-RIV";</note>
+      </trans-unit>
+      <trans-unit id="kEO-yz-TXy.text">
+        <source>1.0</source>
+        <target>1.0</target>
+        <note>Class = "IBUILabel"; text = "1.0"; ObjectID = "kEO-yz-TXy";</note>
+      </trans-unit>
+      <trans-unit id="koo-Q5-VlI.text">
+        <source>Subtitle</source>
+        <target>Subtitle</target>
+        <note>Class = "IBUILabel"; text = "Subtitle"; ObjectID = "koo-Q5-VlI";</note>
+      </trans-unit>
+      <trans-unit id="lkO-dc-ZqY.text">
+        <source>Folder</source>
+        <target>Folder</target>
+        <note>Class = "IBUILabel"; text = "Folder"; ObjectID = "lkO-dc-ZqY";</note>
+      </trans-unit>
+      <trans-unit id="lnA-yF-4Gt.footerTitle">
+        <source>If this option is turned, the widget will show an additional button called 'Show all accounts'. Pressing this button will open this app.</source>
+        <target>If this option is turned, the widget will show an additional button called 'Show all accounts'. Pressing this button will open this app.</target>
+        <note>Class = "IBUITableViewSection"; footerTitle = "If this option is turned, the widget will show an additional button called 'Show all accounts'. Pressing this button will open this app."; ObjectID = "lnA-yF-4Gt";</note>
+      </trans-unit>
+      <trans-unit id="lnA-yF-4Gt.headerTitle">
+        <source>Notification Center</source>
+        <target>Notification Center</target>
+        <note>Class = "IBUITableViewSection"; headerTitle = "Notification Center"; ObjectID = "lnA-yF-4Gt";</note>
+      </trans-unit>
+      <trans-unit id="lww-gB-cmk.placeholder">
+        <source>example@gmail.com</source>
+        <target>example@gmail.com</target>
+        <note>Class = "IBUITextField"; placeholder = "example@gmail.com"; ObjectID = "lww-gB-cmk";</note>
+      </trans-unit>
+      <trans-unit id="m8B-eB-o8R.text">
+        <source>Type</source>
+        <target>Type</target>
+        <note>Class = "IBUILabel"; text = "Type"; ObjectID = "m8B-eB-o8R";</note>
+      </trans-unit>
+      <trans-unit id="mSN-6g-w1Q.footerTitle">
+        <source>Warning: Do not forget this password or all your accounts may be lost. Depending on your settings you may need this password when starting OTP Auth or when restoring from a backup.</source>
+        <target>Warning: Do not forget this password or all your accounts may be lost. Depending on your settings you may need this password when starting OTP Auth or when restoring from a backup.</target>
+        <note>Class = "IBUITableViewSection"; footerTitle = "Warning: Do not forget this password or all your accounts may be lost. Depending on your settings you may need this password when starting OTP Auth or when restoring from a backup."; ObjectID = "mSN-6g-w1Q";</note>
+      </trans-unit>
+      <trans-unit id="mkD-MG-pdr.text">
+        <source>8 digits</source>
+        <target>8 digits</target>
+        <note>Class = "IBUILabel"; text = "8 digits"; ObjectID = "mkD-MG-pdr";</note>
+      </trans-unit>
+      <trans-unit id="muh-7J-T4v.segmentTitles[0]">
+        <source>Plaintext</source>
+        <target>Plaintext</target>
+        <note>Class = "IBUISegmentedControl"; muh-7J-T4v.segmentTitles[0] = "Plaintext"; ObjectID = "muh-7J-T4v";</note>
+      </trans-unit>
+      <trans-unit id="muh-7J-T4v.segmentTitles[1]">
+        <source>Base32</source>
+        <target>Base32</target>
+        <note>Class = "IBUISegmentedControl"; muh-7J-T4v.segmentTitles[1] = "Base32"; ObjectID = "muh-7J-T4v";</note>
+      </trans-unit>
+      <trans-unit id="nFz-7n-lfn.title">
+        <source>Details</source>
+        <target>Details</target>
+        <note>Class = "IBUINavigationItem"; title = "Details"; ObjectID = "nFz-7n-lfn";</note>
+      </trans-unit>
+      <trans-unit id="nsq-TI-KUh.text">
+        <source>Digits</source>
+        <target>Digits</target>
+        <note>Class = "IBUILabel"; text = "Digits"; ObjectID = "nsq-TI-KUh";</note>
+      </trans-unit>
+      <trans-unit id="o5w-hu-HwC.title">
+        <source>OpenSSL</source>
+        <target>OpenSSL</target>
+        <note>Class = "IBUINavigationItem"; title = "OpenSSL"; ObjectID = "o5w-hu-HwC";</note>
+      </trans-unit>
+      <trans-unit id="qFn-d5-Hrc.text">
+        <source>Restore Purchases…</source>
+        <target>Restore Purchases…</target>
+        <note>Class = "IBUILabel"; text = "Restore Purchases…"; ObjectID = "qFn-d5-Hrc";</note>
+      </trans-unit>
+      <trans-unit id="sYg-VW-R0s.title">
+        <source>Folder</source>
+        <note>Class = "IBUINavigationItem"; title = "Folder"; ObjectID = "sYg-VW-R0s";</note>
+      </trans-unit>
+      <trans-unit id="szF-AP-qj4.title">
+        <source>About</source>
+        <target>About</target>
+        <note>Class = "IBUINavigationItem"; title = "About"; ObjectID = "szF-AP-qj4";</note>
+      </trans-unit>
+      <trans-unit id="tTq-MJ-ZdH.footerTitle">
+        <source>Choose the algorithm that should be used for generating codes.</source>
+        <target>Choose the algorithm that should be used for generating codes.</target>
+        <note>Class = "IBUITableViewSection"; footerTitle = "Choose the algorithm that should be used for generating codes."; ObjectID = "tTq-MJ-ZdH";</note>
+      </trans-unit>
+      <trans-unit id="ta3-Dx-Myr.footerTitle">
+        <source>Copyright (c) 2012, Alan Yip\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and\nassociated documentation files (the 'Software'), to deal in the Software without restriction, including\nwithout limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the\nfollowing conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT\nLIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.\nIN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER\nIN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE\nOR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</source>
+        <target>Copyright (c) 2012, Alan Yip\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and\nassociated documentation files (the 'Software'), to deal in the Software without restriction, including\nwithout limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the\nfollowing conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT\nLIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.\nIN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER\nIN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE\nOR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</target>
+        <note>Class = "IBUITableViewSection"; footerTitle = "Copyright (c) 2012, Alan Yip\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and\nassociated documentation files (the 'Software'), to deal in the Software without restriction, including\nwithout limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the\nfollowing conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT\nLIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.\nIN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER\nIN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE\nOR THE USE OR OTHER DEALINGS IN THE SOFTWARE."; ObjectID = "ta3-Dx-Myr";</note>
+      </trans-unit>
+      <trans-unit id="uRF-xH-9ZE.text">
+        <source>SHA1</source>
+        <target>SHA1</target>
+        <note>Class = "IBUILabel"; text = "SHA1"; ObjectID = "uRF-xH-9ZE";</note>
+      </trans-unit>
+      <trans-unit id="uUl-MB-80A.title">
+        <source>Initial Setup</source>
+        <target>Initial Setup</target>
+        <note>Class = "IBUINavigationItem"; title = "Initial Setup"; ObjectID = "uUl-MB-80A";</note>
+      </trans-unit>
+      <trans-unit id="v1M-mJ-kts.footerTitle">
+        <source>Type in the account name and issuer. Neither will be used for generating codes.</source>
+        <target>Type in the account name and issuer. Neither will be used for generating codes.</target>
+        <note>Class = "IBUITableViewSection"; footerTitle = "Type in the account name and issuer. Neither will be used for generating codes."; ObjectID = "v1M-mJ-kts";</note>
+      </trans-unit>
+      <trans-unit id="vJ7-Bc-Jwz.footerTitle">
+        <source>Copyright (c) 2013 Matej Bukovinski\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.</source>
+        <target>Copyright (c) 2013 Matej Bukovinski\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.</target>
+        <note>Class = "IBUITableViewSection"; footerTitle = "Copyright (c) 2013 Matej Bukovinski\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE."; ObjectID = "vJ7-Bc-Jwz";</note>
+      </trans-unit>
+      <trans-unit id="vNA-yv-JNf.footerTitle">
+        <source>Choose how many digits the generated code should have.</source>
+        <target>Choose how many digits the generated code should have.</target>
+        <note>Class = "IBUITableViewSection"; footerTitle = "Choose how many digits the generated code should have."; ObjectID = "vNA-yv-JNf";</note>
+      </trans-unit>
+      <trans-unit id="vej-zJ-Gqk.title">
+        <source>RMStore</source>
+        <target>RMStore</target>
+        <note>Class = "IBUINavigationItem"; title = "RMStore"; ObjectID = "vej-zJ-Gqk";</note>
+      </trans-unit>
+      <trans-unit id="vvm-sz-GN6.placeholder">
+        <source>Secret Password</source>
+        <target>Secret Password</target>
+        <note>Class = "IBUITextField"; placeholder = "Secret Password"; ObjectID = "vvm-sz-GN6";</note>
+      </trans-unit>
+      <trans-unit id="wTg-Pp-l2A.text">
+        <source>Folder</source>
+        <note>Class = "IBUILabel"; text = "Folder"; ObjectID = "wTg-Pp-l2A";</note>
+      </trans-unit>
+      <trans-unit id="x92-k5-BIe.text">
+        <source>MRProgress</source>
+        <target>MRProgress</target>
+        <note>Class = "IBUILabel"; text = "MRProgress"; ObjectID = "x92-k5-BIe";</note>
+      </trans-unit>
+      <trans-unit id="y1y-kR-p5k.placeholder">
+        <source>Repeat Password</source>
+        <target>Repeat Password</target>
+        <note>Class = "IBUITextField"; placeholder = "Repeat Password"; ObjectID = "y1y-kR-p5k";</note>
+      </trans-unit>
+      <trans-unit id="yU0-uD-Vy5.text">
+        <source>UICKeyChainStore</source>
+        <target>UICKeyChainStore</target>
+        <note>Class = "IBUILabel"; text = "UICKeyChainStore"; ObjectID = "yU0-uD-Vy5";</note>
+      </trans-unit>
+      <trans-unit id="ygc-jH-f1g.placeholder">
+        <source>Google Mail</source>
+        <target>Google Mail</target>
+        <note>Class = "IBUITextField"; placeholder = "Google Mail"; ObjectID = "ygc-jH-f1g";</note>
+      </trans-unit>
+      <trans-unit id="yhw-fg-Qr6.text">
+        <source>Require on start</source>
+        <target>Require on start</target>
+        <note>Class = "IBUILabel"; text = "Require on start"; ObjectID = "yhw-fg-Qr6";</note>
+      </trans-unit>
+      <trans-unit id="yuD-7g-6MM.title">
+        <source>Digits</source>
+        <target>Digits</target>
+        <note>Class = "IBUINavigationItem"; title = "Digits"; ObjectID = "yuD-7g-6MM";</note>
+      </trans-unit>
+      <trans-unit id="z0L-ET-0Rh.text">
+        <source>PDKeychainBindings</source>
+        <target>PDKeychainBindings</target>
+        <note>Class = "IBUILabel"; text = "PDKeychainBindings"; ObjectID = "z0L-ET-0Rh";</note>
+      </trans-unit>
+      <trans-unit id="zDn-M7-qXc.placeholder">
+        <source>example@gmail.com</source>
+        <target>example@gmail.com</target>
+        <note>Class = "IBUITextField"; placeholder = "example@gmail.com"; ObjectID = "zDn-M7-qXc";</note>
+      </trans-unit>
+      <trans-unit id="zIk-Cj-5ag.footerTitle">
+        <source>The secret is hidden for security reasons. If you want to change it you need to create a new account.</source>
+        <target>The secret is hidden for security reasons. If you want to change it you need to create a new account.</target>
+        <note>Class = "IBUITableViewSection"; footerTitle = "The secret is hidden for security reasons. If you want to change it you need to create a new account."; ObjectID = "zIk-Cj-5ag";</note>
+      </trans-unit>
+      <trans-unit id="zIk-Cj-5ag.headerTitle">
+        <source>Details</source>
+        <target>Details</target>
+        <note>Class = "IBUITableViewSection"; headerTitle = "Details"; ObjectID = "zIk-Cj-5ag";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Authenticator/Base.lproj/Password.storyboard" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1.1" build-num="6A2008a"/>
+    </header>
+    <body>
+      <trans-unit id="5Mq-Wj-uCk.placeholder">
+        <source>Secret password</source>
+        <target>Secret password</target>
+        <note>Class = "IBUITextField"; placeholder = "Secret password"; ObjectID = "5Mq-Wj-uCk";</note>
+      </trans-unit>
+      <trans-unit id="Gob-K0-UYk.title">
+        <source>Password</source>
+        <target>Password</target>
+        <note>Class = "IBUINavigationItem"; title = "Password"; ObjectID = "Gob-K0-UYk";</note>
+      </trans-unit>
+      <trans-unit id="P0N-X0-EnF.text">
+        <source>PIN Code</source>
+        <target>PIN Code</target>
+        <note>Class = "IBUILabel"; text = "PIN Code"; ObjectID = "P0N-X0-EnF";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Authenticator/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1.1" build-num="6A2008a"/>
+    </header>
+    <body>
+      <trans-unit id="%qi Byte">
+        <source>%qi Byte</source>
+        <target>%qi Byte</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="A file named '%@' already exists. Do you want to overwrite it?">
+        <source>A file named '%@' already exists. Do you want to overwrite it?</source>
+        <target>A file named '%@' already exists. Do you want to overwrite it?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Account exported">
+        <source>Account exported</source>
+        <target>Account exported</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Accounts">
+        <source>Accounts</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Accounts can be added by tapping '+' in the toolbar below. Tap an account to edit its settings.">
+        <source>Accounts can be added by tapping '+' in the toolbar below. Tap an account to edit its settings.</source>
+        <target>Accounts can be added by tapping '+' in the toolbar below. Tap an account to edit its settings.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Accounts marked with a checkmark are already visible in the notification center.">
+        <source>Accounts marked with a checkmark are already visible in the notification center.</source>
+        <target>Accounts marked with a checkmark are already visible in the notification center.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add">
+        <source>Add</source>
+        <target>Add</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="AirDrop">
+        <source>AirDrop</source>
+        <target>AirDrop</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="All Accounts">
+        <source>All Accounts</source>
+        <target>All Accounts</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="An error occured while encrypting the account. Please try again.">
+        <source>An error occured while encrypting the account. Please try again.</source>
+        <target>An error occured while encrypting the account. Please try again.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="An error occured while executing neccessary scripts. Please try again.">
+        <source>An error occured while executing neccessary scripts. Please try again.</source>
+        <target>An error occured while executing neccessary scripts. Please try again.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="An error occured while loading database.">
+        <source>An error occured while loading database.</source>
+        <target>An error occured while loading database.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="An error occured while sending the mail. Please try again later.">
+        <source>An error occured while sending the mail. Please try again later.</source>
+        <target>An error occured while sending the mail. Please try again later.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="An error occured while using Touch ID. Please continue by entering your password manually.">
+        <source>An error occured while using Touch ID. Please continue by entering your password manually.</source>
+        <target>An error occured while using Touch ID. Please continue by entering your password manually.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="An error occurred while enabling iCloud Sync. Please try again.">
+        <source>An error occurred while enabling iCloud Sync. Please try again.</source>
+        <target>An error occurred while enabling iCloud Sync. Please try again.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="An error occurred while restoring\nin-app purchases. Please try again.">
+        <source>An error occurred while restoring\nin-app purchases. Please try again.</source>
+        <target>An error occurred while restoring\nin-app purchases. Please try again.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="App is locked. Please enter your password:">
+        <source>App is locked. Please enter your password:</source>
+        <target>App is locked. Please enter your password:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="At least one file to delete must be selected.">
+        <source>At least one file to delete must be selected.</source>
+        <target>At least one file to delete must be selected.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="At least one file to move must be selected.">
+        <source>At least one file to move must be selected.</source>
+        <target>At least one file to move must be selected.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Choose">
+        <source>Choose</source>
+        <target>Choose</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Confirm the password:">
+        <source>Confirm the password:</source>
+        <target>Confirm the password:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Confirm your new password:">
+        <source>Confirm your new password:</source>
+        <target>Confirm your new password:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Could not find accounts database. Please start the main app to finish the setup process.">
+        <source>Could not find accounts database. Please start the main app to finish the setup process.</source>
+        <target>Could not find accounts database. Please start the main app to finish the setup process.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Counter">
+        <source>Counter</source>
+        <target>Counter</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Counter-based OTP">
+        <source>Counter-based OTP</source>
+        <target>Counter-based OTP</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Custom">
+        <source>Custom</source>
+        <target>Custom</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Default">
+        <source>Default</source>
+        <target>Default</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Default Folder">
+        <source>Default Folder</source>
+        <target>Default Folder</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete">
+        <source>Delete</source>
+        <target>Delete</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete account">
+        <source>Delete account</source>
+        <target>Delete account</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Deleting a folder also deletes all accounts in that folder. \n\nDo you really want to delete the folder '%@'?">
+        <source>Deleting a folder also deletes all accounts in that folder. \n\nDo you really want to delete the folder '%@'?</source>
+        <target>Deleting a folder also deletes all accounts in that folder. \n\nDo you really want to delete the folder '%@'?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Details">
+        <source>Details</source>
+        <target>Details</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Do you really want to delete these files?">
+        <source>Do you really want to delete these files?</source>
+        <target>Do you really want to delete these files?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Do you really want to delete this account?">
+        <source>Do you really want to delete this account?</source>
+        <target>Do you really want to delete this account?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Do you really want to delete this file?">
+        <source>Do you really want to delete this file?</source>
+        <target>Do you really want to delete this file?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Done">
+        <source>Done</source>
+        <target>Done</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="E-Mail">
+        <source>E-Mail</source>
+        <target>E-Mail</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enabling iCloud...">
+        <source>Enabling iCloud...</source>
+        <target>Enabling iCloud...</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter Credentials">
+        <source>Enter Credentials</source>
+        <target>Enter Credentials</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter a password to protect the file:">
+        <source>Enter a password to protect the file:</source>
+        <target>Enter a password to protect the file:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter the password for iCloud database:">
+        <source>Enter the password for iCloud database:</source>
+        <target>Enter the password for iCloud database:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter the password the file is protected with:">
+        <source>Enter the password the file is protected with:</source>
+        <target>Enter the password the file is protected with:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter your new password:">
+        <source>Enter your new password:</source>
+        <target>Enter your new password:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter your old password:">
+        <source>Enter your old password:</source>
+        <target>Enter your old password:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Error">
+        <source>Error</source>
+        <target>Error</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Files">
+        <source>Files</source>
+        <target>Files</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Flash off">
+        <source>Flash off</source>
+        <target>Flash off</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Flash on">
+        <source>Flash on</source>
+        <target>Flash on</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Folder">
+        <source>Folder</source>
+        <target>Folder</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Folder name">
+        <source>Folder name</source>
+        <target>Folder name</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Folders">
+        <source>Folders</source>
+        <target>Folders</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Hide">
+        <source>Hide</source>
+        <target>Hide</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="In-app purchases are not allowed on this device.">
+        <source>In-app purchases are not allowed on this device.</source>
+        <target>In-app purchases are not allowed on this device.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Local">
+        <source>Local</source>
+        <target>Local</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Mail">
+        <source>Mail</source>
+        <target>Mail</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Move">
+        <source>Move</source>
+        <target>Move</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New Folder">
+        <source>New Folder</source>
+        <target>New Folder</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Next">
+        <source>Next</source>
+        <target>Next</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No files.">
+        <source>No files.</source>
+        <target>No files.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No folders. You can create one by tapping '+' in the toolbar below.">
+        <source>No folders. You can create one by tapping '+' in the toolbar below.</source>
+        <target>No folders. You can create one by tapping '+' in the toolbar below.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Notification Center">
+        <source>Notification Center</source>
+        <target>Notification Center</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OK">
+        <source>OK</source>
+        <target>OK</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OTP info for account %@ of provider %@">
+        <source>OTP info for account %1$@ of provider %2$@</source>
+        <target>OTP info for account %1$@ of provider %2$@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Overwrite">
+        <source>Overwrite</source>
+        <target>Overwrite</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Period">
+        <source>Period</source>
+        <target>Period</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please choose the folder to move to.">
+        <source>Please choose the folder to move to.</source>
+        <target>Please choose the folder to move to.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter a name for the new folder:">
+        <source>Please enter a name for the new folder:</source>
+        <target>Please enter a name for the new folder:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter a new name for the folder:">
+        <source>Please enter a new name for the folder:</source>
+        <target>Please enter a new name for the folder:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please type in the name.">
+        <source>Please type in the name.</source>
+        <target>Please type in the name.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Rename">
+        <source>Rename</source>
+        <target>Rename</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Rename Folder">
+        <source>Rename Folder</source>
+        <target>Rename Folder</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Restoring purchases...">
+        <source>Restoring purchases...</source>
+        <target>Restoring purchases...</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Scan Barcode">
+        <source>Scan Barcode</source>
+        <target>Scan Barcode</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Scanner">
+        <source>Scanner</source>
+        <target>Scanner</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Settings">
+        <source>Settings</source>
+        <target>Settings</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show all accounts">
+        <source>Show all accounts</source>
+        <target>Show all accounts</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="System">
+        <source>System</source>
+        <target>System</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The confirmation password did not match the original password. Please try again.">
+        <source>The confirmation password did not match the original password. Please try again.</source>
+        <target>The confirmation password did not match the original password. Please try again.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The name for the folder cannot be empty. Please try again.">
+        <source>The name for the folder cannot be empty. Please try again.</source>
+        <target>The name for the folder cannot be empty. Please try again.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The new name for the folder cannot be empty. Please try again.">
+        <source>The new name for the folder cannot be empty. Please try again.</source>
+        <target>The new name for the folder cannot be empty. Please try again.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The password you entered is wrong. Please try again.">
+        <source>The password you entered is wrong. Please try again.</source>
+        <target>The password you entered is wrong. Please try again.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The scanned barcode did not include a valid account.">
+        <source>The scanned barcode did not include a valid account.</source>
+        <target>The scanned barcode did not include a valid account.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The website does not contain any suitable text fields for entering a password.\n\nIf you think this is an error, write me a messsage by tapping the e-mail button.">
+        <source>The website does not contain any suitable text fields for entering a password.\n\nIf you think this is an error, write me a messsage by tapping the e-mail button.</source>
+        <target>The website does not contain any suitable text fields for entering a password.\n\nIf you think this is an error, write me a messsage by tapping the e-mail button.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="There was an error creating the folder. Please try again.">
+        <source>There was an error creating the folder. Please try again.</source>
+        <target>There was an error creating the folder. Please try again.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="There was an error deleting a file or folder. Please try again.">
+        <source>There was an error deleting a file or folder. Please try again.</source>
+        <target>There was an error deleting a file or folder. Please try again.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="There was an error moving a file or folder. Please try again.">
+        <source>There was an error moving a file or folder. Please try again.</source>
+        <target>There was an error moving a file or folder. Please try again.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="There was an error opening the file. Please try again.">
+        <source>There was an error opening the file. Please try again.</source>
+        <target>There was an error opening the file. Please try again.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="There was an error opening the\ncamera :'(">
+        <source>There was an error opening the\ncamera :'(</source>
+        <target>There was an error opening the\ncamera :'(</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="There was an error removing the file. Please try again.">
+        <source>There was an error removing the file. Please try again.</source>
+        <target>There was an error removing the file. Please try again.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="There was an error renaming the file. Please try again.">
+        <source>There was an error renaming the file. Please try again.</source>
+        <target>There was an error renaming the file. Please try again.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This device has no active iCloud account. Please check the iCloud settings and try again.">
+        <source>This device has no active iCloud account. Please check the iCloud settings and try again.</source>
+        <target>This device has no active iCloud account. Please check the iCloud settings and try again.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This folder shows all accounts from all folders. You cannot add or arrange accounts in this folder.">
+        <source>This folder shows all accounts from all folders. You cannot add or arrange accounts in this folder.</source>
+        <target>This folder shows all accounts from all folders. You cannot add or arrange accounts in this folder.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This folder shows all accounts visible in the notification center. You can add accounts by tapping '+' in the toolbar below.">
+        <source>This folder shows all accounts visible in the notification center. You can add accounts by tapping '+' in the toolbar below.</source>
+        <target>This folder shows all accounts visible in the notification center. You can add accounts by tapping '+' in the toolbar below.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Time-based OTP">
+        <source>Time-based OTP</source>
+        <target>Time-based OTP</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unexpected error has occurred.">
+        <source>Unexpected error has occurred.</source>
+        <target>Unexpected error has occurred.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unknown">
+        <source>Unknown</source>
+        <target>Unknown</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Use custom folders to arrange your accounts. You can add new folders by tapping '+' in the toolbar below.">
+        <source>Use custom folders to arrange your accounts. You can add new folders by tapping '+' in the toolbar below.</source>
+        <target>Use custom folders to arrange your accounts. You can add new folders by tapping '+' in the toolbar below.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Warning">
+        <source>Warning</source>
+        <target>Warning</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You need verify your identity to unlock OTP Auth.">
+        <source>You need verify your identity to unlock OTP Auth.</source>
+        <target>You need verify your identity to unlock OTP Auth.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your account could not be saved. Please try another location to save the file to.">
+        <source>Your account could not be saved. Please try another location to save the file to.</source>
+        <target>Your account could not be saved. Please try another location to save the file to.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your account has been exported successfully. The name of the file is '%@'">
+        <source>Your account has been exported successfully. The name of the file is '%@'</source>
+        <target>Your account has been exported successfully. The name of the file is '%@'</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your current iCloud account already contains an account database. Do you want to continue by using the iCloud database or by using the local database?">
+        <source>Your current iCloud account already contains an account database. Do you want to continue by using the iCloud database or by using the local database?</source>
+        <target>Your current iCloud account already contains an account database. Do you want to continue by using the iCloud database or by using the local database?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="failed to convert data to string">
+        <source>failed to convert data to string</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="failed to convert string to data">
+        <source>failed to convert string to data</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="iCloud">
+        <source>iCloud</source>
+        <target>iCloud</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="iTunes File Sharing">
+        <source>iTunes File Sharing</source>
+        <target>iTunes File Sharing</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="the key must not to be nil">
+        <source>the key must not to be nil</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
